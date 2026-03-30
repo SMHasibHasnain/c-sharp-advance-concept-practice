@@ -1,4 +1,6 @@
-﻿var list = new List<int>
+﻿using System.Transactions;
+
+var list = new List<int>
 {
     2, 3, 10, 32, 12, 44, 1, -5, -33, 22, 55, -9, 99, 66
 };
@@ -11,7 +13,21 @@ var dictionary = new Dictionary<string, Func<int, bool>>
     ["negative"] = num => num < 0
 };
 
+Console.WriteLine("Available operations: ");
+foreach (var item in dictionary)
+{
+    Console.BackgroundColor = ConsoleColor.White;
+    Console.ForegroundColor = ConsoleColor.Black;
+    Console.Write(item.Key);
+    Console.ResetColor();
+    Console.Write(" ");
+}
+
+Console.WriteLine();
+Console.Write("Enter your choice: ");
 var choice = Console.ReadLine();
+Console.WriteLine();
+
 List<int> result;
 
 if(dictionary.ContainsKey(choice!))
@@ -26,6 +42,9 @@ foreach(var item in result)
 {
     Console.Write(item + " ");
 }
+
+Console.WriteLine();
+Console.ReadKey();
 
 List<int> FilterBy(List<int> list, Func<int, bool> predicate)
 {
