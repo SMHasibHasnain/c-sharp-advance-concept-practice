@@ -1,10 +1,11 @@
-﻿using System.Transactions;
-
+﻿// Data
 var list = new List<int>
 {
     2, 3, 10, 32, 12, 44, 1, -5, -33, 22, 55, -9, 99, 66
 };
 
+
+// Dictionary contains commands & Funcs
 var dictionary = new Dictionary<string, Func<int, bool>>
 {
     ["even"] = num => num % 2 == 0,
@@ -13,6 +14,8 @@ var dictionary = new Dictionary<string, Func<int, bool>>
     ["negative"] = num => num < 0
 };
 
+
+// Show commands
 Console.WriteLine("Available operations: ");
 foreach (var item in dictionary)
 {
@@ -23,29 +26,35 @@ foreach (var item in dictionary)
     Console.Write(" ");
 }
 
+
+// Take user inputs
 Console.WriteLine();
 Console.Write("Enter your choice: ");
 var choice = Console.ReadLine();
 Console.WriteLine();
 
-List<int> result;
 
+// Analyze inputs and map to the dictionary commands
+List<int> result;
 if(dictionary.ContainsKey(choice!))
 {
     result = FilterBy(list, dictionary[choice!]);
 } else
 {
-    throw new InvalidOperationException();
+    throw new NotSupportedException();
 }
 
+
+// Print result
 foreach(var item in result)
 {
     Console.Write(item + " ");
 }
-
 Console.WriteLine();
 Console.ReadKey();
 
+
+// Function that taking list and Func
 List<int> FilterBy(List<int> list, Func<int, bool> predicate)
 {
     var resultList = new List<int>();
@@ -58,3 +67,7 @@ List<int> FilterBy(List<int> list, Func<int, bool> predicate)
     }
     return resultList;
 }
+
+
+
+
