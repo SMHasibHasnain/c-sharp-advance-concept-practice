@@ -2,7 +2,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-decorator-pattern", "02-decorator-pattern\02-decorator-pattern.csproj", "{435680CE-8DEB-AB25-BDE5-6E7E1347B2EF}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-strategy-pattern", "01-strategy-pattern", "{4D2C44DF-0871-0FE2-EC47-C4E4E236E1A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-decorator-pattern (1)", "02-decorator-pattern (1)", "{28C656C6-A330-1C7D-178D-C175AA575593}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "strategy-pattern-by-composition", "strategy-pattern-by-composition", "{B55101C2-814D-456D-CCD8-D4B73BB57987}"
 EndProject
@@ -12,12 +16,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "using-dictionary-insteadof-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "using-dictionary-and-funcs-insteadof-switch", "01-strategy-pattern\using-dictionary-insteadof-switch\using-dictionary-and-funcs-insteadof-switch.csproj", "{02B0765F-A6FD-0AC0-72CF-98C2B49489A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic-implementation", "02-decorator-pattern\basic-implementation\basic-implementation.csproj", "{4DF6F726-9A89-8240-955C-9F25B89DA55B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435680CE-8DEB-AB25-BDE5-6E7E1347B2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435680CE-8DEB-AB25-BDE5-6E7E1347B2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435680CE-8DEB-AB25-BDE5-6E7E1347B2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435680CE-8DEB-AB25-BDE5-6E7E1347B2EF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DB60B855-A449-41DB-5F4F-BB4DBF662DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DB60B855-A449-41DB-5F4F-BB4DBF662DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB60B855-A449-41DB-5F4F-BB4DBF662DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +36,10 @@ Global
 		{02B0765F-A6FD-0AC0-72CF-98C2B49489A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02B0765F-A6FD-0AC0-72CF-98C2B49489A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02B0765F-A6FD-0AC0-72CF-98C2B49489A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF6F726-9A89-8240-955C-9F25B89DA55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF6F726-9A89-8240-955C-9F25B89DA55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF6F726-9A89-8240-955C-9F25B89DA55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF6F726-9A89-8240-955C-9F25B89DA55B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,8 +49,9 @@ Global
 		{DB60B855-A449-41DB-5F4F-BB4DBF662DF3} = {B55101C2-814D-456D-CCD8-D4B73BB57987}
 		{D0F28D8D-79E2-8F56-8089-3955051916FE} = {4D2C44DF-0871-0FE2-EC47-C4E4E236E1A8}
 		{02B0765F-A6FD-0AC0-72CF-98C2B49489A2} = {D0F28D8D-79E2-8F56-8089-3955051916FE}
+		{4DF6F726-9A89-8240-955C-9F25B89DA55B} = {28C656C6-A330-1C7D-178D-C175AA575593}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {855E75B1-A230-4990-85C7-31D0E3404AEC}
+		SolutionGuid = {D3D9B4D2-7A85-4790-83EF-6FA61B581F9D}
 	EndGlobalSection
 EndGlobal
