@@ -1,17 +1,35 @@
-﻿class CustomRobot
+﻿var robot1 = new CustomRobot
+(
+    new CanNotFly(), 
+    new WalkingSlowly(), 
+    new TalkInBangla());
+
+robot1.Start();
+
+Console.WriteLine("---------------------");
+
+var robot2 = new CustomRobot
+(
+    new FlyingAnimal(), 
+    new WalkingFaster(), 
+    new CanNotTalk());
+
+robot2.Start();
+
+class CustomRobot
 {
     private IFlyable _flyable;
     private IWalkable _walkable;
     private ITalkable _talkable;
     
-    CustomRobot(IFlyable f, IWalkable w, ITalkable t)
+    public CustomRobot(IFlyable f, IWalkable w, ITalkable t)
     {
         _flyable = f;
         _walkable = w;
         _talkable = t;
     }
 
-    void Start()
+    public void Start()
     {
         _flyable.FLy();
         _talkable.Talk();
