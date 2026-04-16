@@ -6,18 +6,22 @@ if(!Directory.Exists(folder))
 }
 
 string filepath = Path.Combine(folder, "file");
-FileWriter writer = new(filepath);
-FileReader reader = new(filepath);
+using (FileWriter writer = new(filepath))
+{
+    writer.Write("Hello, World!");
+    writer.Write("Stream is writing!");
+    writer.Write("Bye, World!");    
+}
 
-writer.Write("Hello, World!");
-writer.Write("Stream is writing!");
-writer.Write("Bye, World!");
 
-Console.WriteLine(reader.Read(3));
+using(FileReader reader = new(filepath))
+{
+    Console.WriteLine(reader.Read(3));
+}
 
 Console.ReadKey();
 
-class FileWriter
+class FileWriter : IDisposable
 {
     private StreamWriter _writer;
 
@@ -31,9 +35,14 @@ class FileWriter
         _writer.WriteLine(text);
         _writer.Flush();
     }
+
+    public void Dispose()
+    {
+        _writer.Dispose();
+    }
 }
 
-class FileReader
+class FileReader : IDisposable
 {
     private StreamReader _reader;
     public FileReader(string path)
@@ -42,7 +51,7 @@ class FileReader
     }
 
 
-    //Causing Exception, Because StreamWriter is holding the file or locking the file
+    //Causing Exception, Because StreamWriter is holding the file or locking the file. So, disposable interface using is worthy!
     public string Read(int lineNumber)
     {
         _reader.DiscardBufferedData();
@@ -54,5 +63,10 @@ class FileReader
         }
 
         return _reader.ReadLine();
+    }
+
+    public void Dispose()
+    {
+        _reader.Dispose();
     }
 }
