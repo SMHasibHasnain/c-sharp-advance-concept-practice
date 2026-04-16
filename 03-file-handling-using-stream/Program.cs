@@ -7,10 +7,13 @@ if(!Directory.Exists(folder))
 
 string filepath = Path.Combine(folder, "file");
 FileWriter writer = new(filepath);
+FileReader reader = new(filepath);
 
 writer.Write("Hello, World!");
 writer.Write("Stream is writing!");
 writer.Write("Bye, World!");
+
+Console.WriteLine(reader.Read(3));
 
 Console.ReadKey();
 
@@ -27,5 +30,29 @@ class FileWriter
     {
         _writer.WriteLine(text);
         _writer.Flush();
+    }
+}
+
+class FileReader
+{
+    private StreamReader _reader;
+    public FileReader(string path)
+    {
+        _reader = new StreamReader(path);
+    }
+
+
+    //Causing Exception, Because StreamWriter is holding the file or locking the file
+    public string Read(int lineNumber)
+    {
+        _reader.DiscardBufferedData();
+        _reader.BaseStream.Seek(0, SeekOrigin.Begin);
+
+        for(int i=0; i<lineNumber - 1; i++)
+        {
+            _reader.ReadLine();
+        }
+
+        return _reader.ReadLine();
     }
 }
