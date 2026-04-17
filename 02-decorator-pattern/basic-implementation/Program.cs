@@ -20,34 +20,3 @@ class ChosenWord : IWord
         return "football";
     }
 }
-
-public abstract class Decorator : IWord
-{
-    protected IWord _word;
-    public Decorator(IWord w)
-    {
-        _word = w;
-    }
-    public abstract string Write();
-}
-
-
-public class WordDecorator01 : Decorator
-{
-    public WordDecorator01(IWord w) : base(w) {}
-    
-    public override string Write()
-    {
-        return "play" + " " + _word.Write();
-    }
-}
-
-public class WordDecorator02 : Decorator
-{
-    public WordDecorator02(IWord w) : base(w) {}
-    
-    public override string Write()
-    {
-        return "eat" + " " + _word.Write();
-    }    
-}

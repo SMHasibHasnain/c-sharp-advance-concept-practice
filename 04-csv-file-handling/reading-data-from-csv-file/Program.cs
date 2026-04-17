@@ -1,6 +1,4 @@
-﻿using System.Data;
-
-string filepath = Path.Combine("_data", "color_srgb.csv");
+﻿string filepath = Path.Combine("_data", "color_srgb.csv");
 
 if(!File.Exists(filepath))
 {
@@ -33,44 +31,3 @@ foreach (string[] row in csvdata.Rows)
 }
 
 Console.WriteLine(new string('-', 45));
-
-class Csv
-{
-    public string[] Columns {get; set;}
-    public IEnumerable<string[]> Rows {get; set;}
-}
-
-
-class CsvReader : IDisposable
-{
-    private StreamReader _reader;
-
-    public CsvReader(string filepath)
-    {
-        _reader = new(filepath);
-    }
-
-    public Csv Read()
-    {
-        string[] col = _reader.ReadLine().Split(",");
-        List<string[]> rows = new();
-        
-        while(!_reader.EndOfStream)
-        {
-            var row = _reader.ReadLine().Split(",");
-            rows.Add(row);
-        }
-
-        return new Csv
-        {
-            Columns = col,
-            Rows = rows
-        };
-
-    } 
-
-    public void Dispose()
-    {
-        _reader.Dispose();
-    }
-}
