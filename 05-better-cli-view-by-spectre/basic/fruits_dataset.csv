@@ -1,0 +1,1001 @@
+Fruit_ID,Name,Category,Origin,Color,Weight_g,Price_USD_per_kg,Sweetness_1_to_10,Acidity_1_to_10,Shelf_Life_Days
+F-0001,Mango,Pome Fruit,Costa Rica,Purple,614.63,13.42,7,4,35
+F-0002,Banana,Stone Fruit,USA,Green,1512.9,14.24,9,9,16
+F-0003,Pineapple,Berry,Ecuador,Yellow,3615.76,20.96,1,7,5
+F-0004,Lime,Tropical,Ecuador,Pink,3274.84,24.73,8,7,6
+F-0005,Papaya,Pome Fruit,Spain,Blue,1100.04,24.4,4,8,20
+F-0006,Blackberry,Citrus,Peru,Blue,2687.61,10.38,3,10,36
+F-0007,Blueberry,Stone Fruit,Peru,Purple,3791.29,19.17,5,10,31
+F-0008,Lemon,Tropical,Chile,Yellow,3805.03,18.65,10,7,12
+F-0009,Banana,Stone Fruit,Chile,Red,2993.91,13.57,4,8,8
+F-0010,Blueberry,Tropical,Chile,Purple,957.04,10.55,9,10,39
+F-0011,Peach,Tropical,USA,Purple,1179.81,16.6,5,8,37
+F-0012,Cherry,Tropical,Costa Rica,Orange,2234.01,24.12,4,8,41
+F-0013,Pear,Tropical,Mexico,Blue,4339.88,4.46,8,8,16
+F-0014,Papaya,Stone Fruit,Brazil,Orange,3048.25,0.73,6,4,10
+F-0015,Strawberry,Citrus,India,Blue,3721.51,2.4,7,5,6
+F-0016,Lemon,Melon,Peru,Black,4441.68,16.78,6,10,15
+F-0017,Watermelon,Tropical,Peru,Black,4735.4,23.98,2,7,14
+F-0018,Cherry,Melon,Colombia,Yellow,1387.51,17.2,3,4,25
+F-0019,Grapes,Citrus,Ecuador,Blue,1624.75,15.8,8,3,39
+F-0020,Banana,Berry,Colombia,Yellow,3464.83,18.74,4,4,41
+F-0021,Pear,Tropical,Italy,Purple,4291.3,2.13,1,10,3
+F-0022,Grapes,Melon,Colombia,Pink,1492.22,23.98,5,8,18
+F-0023,Mango,Citrus,New Zealand,Purple,3815.43,24.72,10,9,6
+F-0024,Mango,Pome Fruit,Mexico,Black,1030.57,22.63,3,3,31
+F-0025,Watermelon,Citrus,USA,Yellow,4821.87,21.72,9,8,42
+F-0026,Blueberry,Melon,Chile,Pink,2722.5,2.85,6,1,6
+F-0027,Banana,Stone Fruit,Mexico,Purple,566.17,8.64,3,4,9
+F-0028,Mango,Melon,Italy,Purple,3022.17,11.82,6,5,35
+F-0029,Strawberry,Berry,Peru,Blue,4454.79,15.3,10,6,9
+F-0030,Banana,Melon,China,Pink,4399.06,8.59,9,8,36
+F-0031,Watermelon,Melon,Costa Rica,Black,115.92,20.83,3,7,29
+F-0032,Banana,Melon,Mexico,Black,3020.72,2.27,3,1,18
+F-0033,Avocado,Citrus,India,Orange,3200.39,24.38,8,5,14
+F-0034,Peach,Berry,USA,Orange,3706.99,7.52,1,9,20
+F-0035,Raspberry,Melon,Spain,Purple,4525.03,11.38,2,5,12
+F-0036,Raspberry,Pome Fruit,Ecuador,Purple,2753.01,4.41,4,10,36
+F-0037,Lime,Stone Fruit,Costa Rica,Purple,882.8,13.28,4,5,36
+F-0038,Pear,Citrus,Italy,Yellow,2956.2,8.34,5,5,44
+F-0039,Apple,Berry,Spain,Pink,4628.52,4.23,1,1,29
+F-0040,Orange,Citrus,New Zealand,Red,4173.21,22.79,4,7,26
+F-0041,Blueberry,Melon,Costa Rica,Red,4673.21,9.0,2,6,6
+F-0042,Pineapple,Tropical,Ecuador,Purple,3885.15,19.89,1,7,42
+F-0043,Pear,Berry,New Zealand,Purple,2458.9,21.89,3,9,36
+F-0044,Blackberry,Stone Fruit,USA,Pink,727.37,12.64,5,5,23
+F-0045,Plum,Melon,Colombia,Pink,1348.03,0.73,10,3,32
+F-0046,Strawberry,Berry,Ecuador,Blue,4638.18,17.33,1,9,41
+F-0047,Pear,Stone Fruit,India,Green,614.06,7.92,8,3,26
+F-0048,Pear,Tropical,Brazil,Green,3818.81,9.24,6,6,41
+F-0049,Papaya,Berry,Peru,Yellow,2126.27,19.39,1,9,26
+F-0050,Grapes,Tropical,Brazil,Pink,1102.9,10.99,2,9,21
+F-0051,Blackberry,Citrus,Mexico,Green,3274.85,5.21,7,2,28
+F-0052,Blueberry,Berry,Ecuador,Green,2800.27,5.4,1,6,45
+F-0053,Orange,Tropical,Chile,Pink,273.81,2.66,2,9,36
+F-0054,Banana,Citrus,Ecuador,Red,4706.56,13.87,7,5,44
+F-0055,Mango,Pome Fruit,New Zealand,Pink,4255.25,1.01,3,8,20
+F-0056,Apple,Tropical,Spain,Red,3382.52,14.97,5,2,22
+F-0057,Avocado,Pome Fruit,Mexico,Purple,4260.33,21.02,3,4,2
+F-0058,Cherry,Stone Fruit,Costa Rica,Red,4384.08,16.0,2,3,4
+F-0059,Banana,Stone Fruit,Chile,Red,2565.06,2.04,1,5,29
+F-0060,Blueberry,Citrus,Colombia,Pink,3983.31,2.52,5,10,7
+F-0061,Mango,Tropical,Colombia,Red,3161.04,5.49,7,8,11
+F-0062,Pear,Tropical,Ecuador,Black,1762.4,13.14,4,4,8
+F-0063,Watermelon,Pome Fruit,China,Black,4808.73,24.96,8,8,25
+F-0064,Plum,Stone Fruit,USA,Yellow,2845.19,1.9,2,5,4
+F-0065,Pineapple,Pome Fruit,Thailand,Red,4494.14,11.99,3,10,45
+F-0066,Peach,Melon,Costa Rica,Green,2327.92,15.06,3,1,4
+F-0067,Kiwi,Tropical,Colombia,Pink,3315.82,4.36,3,9,3
+F-0068,Raspberry,Citrus,Colombia,Orange,639.34,11.71,4,5,33
+F-0069,Grapes,Melon,Peru,Black,3224.85,19.02,4,3,39
+F-0070,Lime,Citrus,Colombia,Purple,1071.87,12.02,1,3,14
+F-0071,Orange,Citrus,Costa Rica,Yellow,2826.73,15.11,9,7,4
+F-0072,Lime,Melon,Italy,Green,1935.59,9.62,1,7,35
+F-0073,Blueberry,Citrus,Italy,Green,1289.75,22.91,4,1,9
+F-0074,Peach,Berry,Colombia,Black,2577.83,4.89,5,6,40
+F-0075,Strawberry,Citrus,South Africa,Yellow,4106.07,0.72,1,6,32
+F-0076,Watermelon,Citrus,Mexico,Black,3217.16,9.44,1,4,35
+F-0077,Orange,Berry,New Zealand,Yellow,3187.11,20.3,1,7,40
+F-0078,Watermelon,Tropical,India,Green,4508.92,10.82,6,3,2
+F-0079,Plum,Tropical,Mexico,Green,4803.19,19.52,9,4,21
+F-0080,Watermelon,Berry,Colombia,Pink,3879.51,11.99,2,6,30
+F-0081,Blackberry,Melon,USA,Blue,4598.92,5.61,1,5,20
+F-0082,Pineapple,Citrus,Thailand,Yellow,3791.44,8.79,8,5,11
+F-0083,Lime,Stone Fruit,Italy,Purple,3411.29,21.4,6,4,5
+F-0084,Cherry,Stone Fruit,Ecuador,Black,3383.23,4.88,7,7,44
+F-0085,Banana,Stone Fruit,Colombia,Pink,1014.05,18.79,8,10,28
+F-0086,Mango,Tropical,Ecuador,Blue,1084.87,10.51,8,5,16
+F-0087,Pear,Stone Fruit,Peru,Red,2490.37,8.19,6,3,17
+F-0088,Apple,Stone Fruit,Italy,Black,2217.5,3.01,7,7,21
+F-0089,Avocado,Citrus,USA,Pink,4813.62,3.58,2,2,21
+F-0090,Apple,Berry,Chile,Red,4494.06,7.92,1,9,25
+F-0091,Apple,Tropical,Ecuador,Yellow,2543.19,13.95,4,9,16
+F-0092,Peach,Citrus,Mexico,Blue,4341.92,3.22,10,3,24
+F-0093,Raspberry,Tropical,Ecuador,Yellow,4661.06,5.15,10,1,36
+F-0094,Papaya,Stone Fruit,Peru,Purple,2552.63,8.83,6,9,39
+F-0095,Blueberry,Melon,Chile,Pink,3977.17,22.0,5,7,11
+F-0096,Papaya,Berry,Ecuador,Pink,1726.77,17.13,7,1,33
+F-0097,Pineapple,Berry,Italy,Pink,4084.8,14.88,9,2,37
+F-0098,Cherry,Tropical,Peru,Purple,795.9,16.99,5,6,2
+F-0099,Plum,Berry,Chile,Purple,3927.09,10.02,3,7,20
+F-0100,Lime,Berry,Thailand,Blue,3633.14,15.03,5,10,21
+F-0101,Watermelon,Stone Fruit,Costa Rica,Orange,2617.31,5.25,4,9,28
+F-0102,Orange,Pome Fruit,Mexico,Blue,4409.76,2.08,9,1,44
+F-0103,Lime,Berry,Mexico,Yellow,2808.12,14.78,1,9,36
+F-0104,Orange,Berry,Italy,Blue,257.11,13.02,4,7,37
+F-0105,Strawberry,Berry,Brazil,Yellow,4064.7,6.44,5,8,33
+F-0106,Papaya,Citrus,Mexico,Purple,1413.78,20.08,7,10,33
+F-0107,Orange,Pome Fruit,Spain,Blue,416.12,15.49,2,9,28
+F-0108,Cherry,Tropical,Costa Rica,Green,1177.02,23.42,2,9,2
+F-0109,Peach,Berry,Mexico,Red,578.52,0.82,2,7,6
+F-0110,Raspberry,Pome Fruit,China,Blue,3590.39,10.7,5,9,4
+F-0111,Papaya,Citrus,Mexico,Green,443.56,4.36,4,2,14
+F-0112,Pineapple,Tropical,China,Yellow,2599.23,10.98,3,9,34
+F-0113,Raspberry,Citrus,Costa Rica,Black,4483.09,14.99,5,1,21
+F-0114,Cherry,Pome Fruit,Chile,Pink,1252.57,20.49,10,7,12
+F-0115,Orange,Citrus,USA,Green,2370.04,3.77,10,9,14
+F-0116,Raspberry,Stone Fruit,Brazil,Yellow,1646.07,18.68,4,4,35
+F-0117,Mango,Berry,Brazil,Yellow,290.97,2.24,10,4,30
+F-0118,Grapes,Citrus,Brazil,Red,3275.76,12.17,5,6,3
+F-0119,Banana,Pome Fruit,Spain,Yellow,4989.93,11.31,5,5,18
+F-0120,Apple,Stone Fruit,Costa Rica,Red,1389.95,13.98,1,9,41
+F-0121,Pineapple,Pome Fruit,India,Pink,1038.6,12.91,8,7,26
+F-0122,Cherry,Stone Fruit,Colombia,Pink,2459.52,4.52,4,3,18
+F-0123,Strawberry,Berry,Mexico,Red,2195.28,0.65,9,4,41
+F-0124,Pear,Melon,South Africa,Orange,149.39,0.51,3,1,44
+F-0125,Strawberry,Tropical,Italy,Yellow,2374.13,23.93,3,7,36
+F-0126,Strawberry,Stone Fruit,China,Red,553.23,13.33,7,1,43
+F-0127,Plum,Berry,New Zealand,Yellow,2485.25,3.68,10,5,6
+F-0128,Apple,Berry,Mexico,Black,3774.56,17.02,2,10,45
+F-0129,Watermelon,Tropical,Spain,Blue,3544.14,13.54,9,4,18
+F-0130,Strawberry,Berry,New Zealand,Pink,4689.69,20.41,8,2,11
+F-0131,Watermelon,Tropical,South Africa,Black,4713.65,18.46,1,7,20
+F-0132,Mango,Melon,Mexico,Yellow,4217.41,8.5,4,4,2
+F-0133,Apple,Berry,India,Green,2027.14,13.73,3,3,43
+F-0134,Pear,Citrus,Brazil,Green,910.49,3.48,7,2,28
+F-0135,Pear,Melon,USA,Yellow,4722.58,6.64,4,3,10
+F-0136,Grapes,Citrus,India,Yellow,1904.73,7.86,9,3,14
+F-0137,Plum,Pome Fruit,Peru,Purple,4121.53,18.84,6,8,8
+F-0138,Raspberry,Stone Fruit,China,Black,4166.76,23.45,7,7,31
+F-0139,Plum,Stone Fruit,Brazil,Green,597.66,1.44,8,3,18
+F-0140,Apple,Melon,Peru,Yellow,4259.53,0.7,3,8,25
+F-0141,Orange,Melon,Colombia,Red,3790.7,3.17,2,8,29
+F-0142,Orange,Berry,Thailand,Orange,4462.35,10.73,9,3,44
+F-0143,Blackberry,Berry,Colombia,Blue,1183.83,23.41,4,1,35
+F-0144,Pineapple,Citrus,Brazil,Green,1832.74,22.1,6,3,41
+F-0145,Raspberry,Pome Fruit,Spain,Green,2304.62,23.23,1,3,22
+F-0146,Orange,Berry,Colombia,Orange,1828.01,19.32,8,1,35
+F-0147,Mango,Pome Fruit,India,Blue,2497.69,19.87,6,8,28
+F-0148,Raspberry,Melon,Colombia,Red,3586.11,7.87,7,9,4
+F-0149,Mango,Pome Fruit,Colombia,Black,4494.86,7.45,1,6,42
+F-0150,Avocado,Citrus,New Zealand,Yellow,4481.67,24.62,5,9,30
+F-0151,Lime,Stone Fruit,Spain,Black,4493.08,5.32,6,2,39
+F-0152,Kiwi,Stone Fruit,Brazil,Blue,3814.71,11.56,4,1,35
+F-0153,Peach,Melon,South Africa,Pink,1223.57,16.91,7,8,31
+F-0154,Raspberry,Stone Fruit,Colombia,Blue,1664.05,10.26,5,8,30
+F-0155,Papaya,Citrus,Ecuador,Blue,2829.47,15.16,5,7,16
+F-0156,Blueberry,Tropical,China,Black,3213.82,5.31,1,10,32
+F-0157,Blueberry,Tropical,Mexico,Green,1336.2,12.35,6,8,14
+F-0158,Raspberry,Tropical,Ecuador,Red,1314.44,20.74,7,8,22
+F-0159,Peach,Stone Fruit,Costa Rica,Blue,4285.26,21.16,4,7,31
+F-0160,Papaya,Melon,New Zealand,Orange,4997.68,24.09,8,2,37
+F-0161,Pear,Pome Fruit,USA,Purple,3360.91,1.67,2,4,25
+F-0162,Kiwi,Melon,USA,Yellow,2020.48,2.46,5,6,13
+F-0163,Mango,Tropical,South Africa,Black,626.02,9.54,1,1,7
+F-0164,Strawberry,Melon,Chile,Red,770.53,2.29,2,3,43
+F-0165,Cherry,Melon,Costa Rica,Black,4566.2,19.38,6,5,21
+F-0166,Raspberry,Citrus,Chile,Black,975.36,14.85,9,3,15
+F-0167,Banana,Pome Fruit,Thailand,Orange,1085.61,8.58,9,8,9
+F-0168,Lime,Stone Fruit,Colombia,Blue,4887.9,14.92,4,9,41
+F-0169,Blackberry,Tropical,New Zealand,Green,2018.56,9.35,7,6,11
+F-0170,Lime,Citrus,Italy,Yellow,2380.19,20.59,2,7,33
+F-0171,Peach,Melon,Mexico,Blue,1800.71,23.21,2,1,22
+F-0172,Avocado,Tropical,Italy,Blue,4202.52,8.2,9,9,32
+F-0173,Cherry,Stone Fruit,Ecuador,Green,2182.36,4.37,9,7,40
+F-0174,Avocado,Pome Fruit,New Zealand,Black,2117.27,2.34,4,1,8
+F-0175,Grapes,Stone Fruit,Ecuador,Green,3399.93,9.59,10,8,38
+F-0176,Apple,Pome Fruit,Thailand,Green,643.95,17.55,10,6,34
+F-0177,Papaya,Melon,Italy,Blue,1331.34,22.18,9,5,41
+F-0178,Watermelon,Berry,India,Green,374.67,22.02,10,9,2
+F-0179,Papaya,Melon,China,Blue,2932.07,18.99,6,6,9
+F-0180,Peach,Melon,Colombia,Purple,4957.29,21.44,8,6,37
+F-0181,Avocado,Tropical,Chile,Blue,4239.32,14.61,2,4,5
+F-0182,Lemon,Pome Fruit,Peru,Purple,2003.64,14.39,10,3,41
+F-0183,Peach,Melon,Italy,Purple,4037.59,17.43,10,5,33
+F-0184,Raspberry,Berry,Ecuador,Yellow,2678.16,0.72,5,8,3
+F-0185,Apple,Tropical,Peru,Green,4803.51,11.59,10,4,30
+F-0186,Avocado,Tropical,South Africa,Black,1646.31,9.1,10,9,25
+F-0187,Blueberry,Melon,Brazil,Green,3905.65,7.55,1,10,17
+F-0188,Raspberry,Stone Fruit,Colombia,Black,3208.7,20.51,4,10,35
+F-0189,Watermelon,Pome Fruit,Colombia,Green,248.77,11.65,8,10,44
+F-0190,Orange,Citrus,Thailand,Orange,2921.33,2.75,6,9,7
+F-0191,Papaya,Stone Fruit,India,Green,2532.13,8.04,6,5,18
+F-0192,Blueberry,Tropical,Peru,Blue,1687.93,22.79,1,5,24
+F-0193,Pineapple,Pome Fruit,Mexico,Purple,2234.87,15.05,9,10,25
+F-0194,Blueberry,Stone Fruit,Spain,Red,625.67,20.58,5,9,23
+F-0195,Orange,Tropical,New Zealand,Black,4139.01,19.42,1,5,24
+F-0196,Papaya,Melon,Peru,Pink,4424.76,4.5,2,4,30
+F-0197,Orange,Tropical,Ecuador,Pink,2439.26,4.34,3,9,14
+F-0198,Blueberry,Berry,New Zealand,Purple,1805.01,18.53,2,8,8
+F-0199,Orange,Berry,Chile,Red,4022.53,15.64,3,5,35
+F-0200,Lime,Citrus,Spain,Blue,1122.14,4.27,10,6,37
+F-0201,Papaya,Tropical,Brazil,Yellow,188.89,19.08,1,6,20
+F-0202,Watermelon,Berry,Mexico,Purple,3672.97,3.07,7,1,16
+F-0203,Raspberry,Melon,New Zealand,Black,3278.87,12.19,1,1,43
+F-0204,Cherry,Berry,Chile,Yellow,2999.1,14.63,1,10,17
+F-0205,Blackberry,Berry,Peru,Blue,3282.98,12.75,8,3,45
+F-0206,Grapes,Stone Fruit,South Africa,Purple,3559.9,18.57,9,7,5
+F-0207,Pear,Tropical,Chile,Green,3329.78,19.9,5,4,35
+F-0208,Lime,Berry,China,Pink,3124.4,1.87,6,8,5
+F-0209,Pineapple,Pome Fruit,Mexico,Red,3037.2,6.11,3,2,36
+F-0210,Grapes,Citrus,Brazil,Pink,234.22,20.1,1,2,33
+F-0211,Banana,Pome Fruit,India,Pink,3486.65,9.53,6,8,32
+F-0212,Mango,Tropical,Chile,Green,2016.39,15.68,3,3,5
+F-0213,Grapes,Berry,China,Red,1048.7,20.44,10,2,14
+F-0214,Watermelon,Citrus,Mexico,Purple,3418.47,11.68,3,9,6
+F-0215,Lemon,Tropical,Spain,Pink,84.09,0.68,9,5,17
+F-0216,Raspberry,Citrus,China,Orange,4179.37,19.47,7,9,30
+F-0217,Orange,Tropical,Italy,Black,2384.86,10.65,8,8,27
+F-0218,Banana,Stone Fruit,Ecuador,Yellow,1803.85,7.97,5,8,12
+F-0219,Apple,Melon,Chile,Purple,653.62,21.28,1,9,10
+F-0220,Banana,Pome Fruit,Thailand,Red,460.89,13.7,3,10,13
+F-0221,Banana,Melon,New Zealand,Yellow,4590.0,10.56,4,7,45
+F-0222,Strawberry,Citrus,Brazil,Yellow,258.62,20.97,7,8,14
+F-0223,Kiwi,Citrus,USA,Green,1405.65,9.9,5,1,39
+F-0224,Kiwi,Pome Fruit,Chile,Blue,4332.07,2.77,4,7,2
+F-0225,Banana,Melon,USA,Blue,2653.64,11.87,6,3,28
+F-0226,Lime,Melon,Spain,Pink,1101.37,11.5,1,7,14
+F-0227,Avocado,Pome Fruit,Colombia,Green,319.36,11.35,1,7,13
+F-0228,Plum,Tropical,Ecuador,Green,2486.07,21.75,6,4,9
+F-0229,Papaya,Stone Fruit,Italy,Orange,3728.74,2.71,10,1,35
+F-0230,Blackberry,Pome Fruit,Thailand,Orange,839.33,4.35,9,7,21
+F-0231,Lemon,Pome Fruit,South Africa,Orange,1851.34,1.79,10,8,45
+F-0232,Kiwi,Pome Fruit,Brazil,Pink,4908.02,13.98,9,7,7
+F-0233,Lemon,Citrus,Costa Rica,Yellow,104.16,21.7,5,3,45
+F-0234,Blueberry,Melon,USA,Yellow,798.1,17.51,2,8,44
+F-0235,Avocado,Stone Fruit,Thailand,Yellow,1023.81,3.42,7,8,3
+F-0236,Kiwi,Citrus,Brazil,Red,2123.23,9.76,8,5,32
+F-0237,Watermelon,Pome Fruit,Mexico,Black,3393.39,1.44,9,1,34
+F-0238,Mango,Berry,China,Pink,1828.06,2.36,3,4,21
+F-0239,Peach,Citrus,Spain,Purple,4416.6,21.52,8,2,35
+F-0240,Mango,Tropical,USA,Pink,507.83,12.97,8,9,9
+F-0241,Lemon,Citrus,India,Green,3630.62,10.83,9,7,39
+F-0242,Pear,Citrus,India,Yellow,737.71,11.13,8,2,35
+F-0243,Plum,Stone Fruit,Peru,Blue,1055.66,13.02,4,10,38
+F-0244,Papaya,Berry,USA,Yellow,820.51,23.37,10,5,24
+F-0245,Pineapple,Pome Fruit,New Zealand,Black,4332.21,20.83,2,7,17
+F-0246,Apple,Pome Fruit,Chile,Purple,4642.28,12.34,9,1,16
+F-0247,Blackberry,Stone Fruit,Colombia,Blue,2341.28,7.86,5,8,28
+F-0248,Grapes,Tropical,Ecuador,Purple,4756.59,12.96,10,9,11
+F-0249,Pineapple,Pome Fruit,Italy,Orange,4447.14,6.55,6,8,31
+F-0250,Lime,Melon,Spain,Black,3266.85,21.01,6,8,4
+F-0251,Raspberry,Citrus,Peru,Green,4921.99,3.68,3,2,2
+F-0252,Strawberry,Stone Fruit,India,Blue,1327.65,16.74,3,5,19
+F-0253,Avocado,Berry,Italy,Blue,1318.8,23.7,1,3,13
+F-0254,Raspberry,Stone Fruit,Ecuador,Purple,4458.84,4.83,7,8,44
+F-0255,Pineapple,Tropical,Costa Rica,Pink,4095.58,14.69,7,5,44
+F-0256,Orange,Melon,Chile,Purple,3707.82,2.59,9,6,45
+F-0257,Cherry,Pome Fruit,Spain,Black,2427.96,0.61,2,5,15
+F-0258,Grapes,Citrus,Peru,Red,3649.22,17.05,9,9,32
+F-0259,Lime,Pome Fruit,USA,Yellow,4531.14,22.86,1,10,2
+F-0260,Plum,Berry,New Zealand,Purple,1638.65,22.73,10,7,39
+F-0261,Kiwi,Melon,Costa Rica,Yellow,2903.02,11.75,10,7,4
+F-0262,Plum,Berry,Brazil,Black,632.53,13.43,4,2,23
+F-0263,Strawberry,Citrus,USA,Blue,70.3,1.12,2,4,13
+F-0264,Plum,Tropical,USA,Blue,1128.28,0.8,4,3,43
+F-0265,Kiwi,Melon,Mexico,Blue,2882.26,7.45,4,1,27
+F-0266,Lemon,Stone Fruit,Peru,Blue,3842.36,16.81,2,8,8
+F-0267,Grapes,Berry,Thailand,Green,1293.82,13.9,4,10,6
+F-0268,Lemon,Citrus,China,Blue,4248.33,10.77,6,4,21
+F-0269,Pineapple,Pome Fruit,Peru,Black,1671.51,5.05,9,4,25
+F-0270,Papaya,Citrus,Peru,Black,3187.9,19.69,10,3,25
+F-0271,Lime,Stone Fruit,Ecuador,Red,2300.3,4.16,4,4,45
+F-0272,Plum,Tropical,Italy,Black,4675.58,16.02,7,4,32
+F-0273,Pear,Melon,Ecuador,Yellow,2996.3,4.76,1,6,40
+F-0274,Blueberry,Tropical,Italy,Red,2474.01,20.27,9,10,27
+F-0275,Peach,Melon,Chile,Green,2054.79,8.24,4,6,44
+F-0276,Strawberry,Berry,Peru,Green,3670.32,10.02,4,3,2
+F-0277,Blueberry,Melon,Ecuador,Yellow,1950.17,21.0,3,8,6
+F-0278,Lemon,Berry,Italy,Yellow,1814.74,17.58,1,10,32
+F-0279,Cherry,Melon,Brazil,Orange,2308.57,5.24,4,5,24
+F-0280,Grapes,Tropical,Thailand,Orange,3805.44,18.42,10,6,30
+F-0281,Grapes,Melon,India,Green,3701.19,23.54,10,10,5
+F-0282,Raspberry,Pome Fruit,Thailand,Black,1670.92,11.77,3,4,11
+F-0283,Avocado,Melon,Thailand,Red,4876.38,15.03,1,3,19
+F-0284,Plum,Berry,Ecuador,Purple,3115.95,18.22,1,10,43
+F-0285,Mango,Pome Fruit,Ecuador,Red,2328.61,22.27,4,6,11
+F-0286,Mango,Melon,Chile,Pink,3175.62,8.64,1,2,2
+F-0287,Strawberry,Berry,Brazil,Blue,4837.37,21.08,10,8,28
+F-0288,Avocado,Berry,India,Red,1148.63,24.01,9,4,13
+F-0289,Strawberry,Citrus,USA,Blue,396.93,20.03,2,6,45
+F-0290,Raspberry,Berry,Costa Rica,Orange,4472.79,5.83,3,6,23
+F-0291,Lemon,Stone Fruit,Thailand,Black,1068.38,5.44,4,10,12
+F-0292,Cherry,Stone Fruit,Costa Rica,Red,4980.59,14.19,5,9,2
+F-0293,Apple,Pome Fruit,Colombia,Black,4317.26,9.04,10,2,9
+F-0294,Kiwi,Pome Fruit,Thailand,Orange,3797.24,9.09,7,8,36
+F-0295,Pear,Berry,Ecuador,Purple,1365.88,3.39,2,4,37
+F-0296,Peach,Melon,China,Black,3706.13,7.65,8,10,45
+F-0297,Strawberry,Melon,Peru,Blue,1659.46,3.23,1,7,3
+F-0298,Plum,Citrus,USA,Green,191.53,23.58,6,7,20
+F-0299,Apple,Tropical,South Africa,Purple,4115.91,20.33,7,3,44
+F-0300,Plum,Tropical,India,Blue,1726.31,1.0,4,8,45
+F-0301,Raspberry,Pome Fruit,Thailand,Purple,225.42,3.39,3,4,16
+F-0302,Apple,Citrus,South Africa,Purple,2245.53,19.94,6,2,25
+F-0303,Raspberry,Melon,Chile,Pink,3935.77,3.52,5,8,32
+F-0304,Blueberry,Berry,South Africa,Blue,1791.1,10.79,2,8,31
+F-0305,Strawberry,Melon,Peru,Yellow,4428.5,21.57,1,6,29
+F-0306,Orange,Pome Fruit,Spain,Yellow,3141.72,10.63,10,7,20
+F-0307,Apple,Berry,Thailand,Green,1018.01,3.44,4,1,18
+F-0308,Kiwi,Tropical,Ecuador,Orange,2149.43,4.16,1,6,41
+F-0309,Mango,Berry,USA,Yellow,3455.3,21.17,7,1,18
+F-0310,Pineapple,Melon,India,Pink,2014.0,16.6,6,10,44
+F-0311,Grapes,Melon,Chile,Red,1989.14,4.05,5,1,19
+F-0312,Papaya,Melon,Colombia,Purple,1129.14,19.6,7,5,45
+F-0313,Banana,Citrus,USA,Purple,118.9,0.61,3,8,3
+F-0314,Peach,Stone Fruit,China,Black,3005.19,9.29,7,5,2
+F-0315,Papaya,Citrus,Mexico,Green,851.31,20.64,5,2,30
+F-0316,Mango,Berry,Thailand,Purple,2652.06,2.4,6,9,3
+F-0317,Pineapple,Tropical,Mexico,Pink,4833.5,13.01,3,2,44
+F-0318,Blueberry,Melon,USA,Yellow,2203.32,11.39,10,2,2
+F-0319,Kiwi,Tropical,Spain,Blue,3133.87,7.89,2,9,31
+F-0320,Lime,Berry,New Zealand,Green,4373.47,21.08,8,4,10
+F-0321,Raspberry,Stone Fruit,Colombia,Black,1564.37,12.7,3,10,17
+F-0322,Banana,Stone Fruit,South Africa,Black,1853.47,9.64,5,8,14
+F-0323,Pear,Stone Fruit,Chile,Red,4425.63,24.33,5,8,34
+F-0324,Strawberry,Tropical,Chile,Green,2722.42,21.11,3,5,35
+F-0325,Watermelon,Stone Fruit,Costa Rica,Pink,4848.58,19.36,5,9,45
+F-0326,Grapes,Tropical,Costa Rica,Purple,3732.96,16.79,3,2,40
+F-0327,Kiwi,Berry,Ecuador,Red,1940.84,16.81,4,10,12
+F-0328,Strawberry,Pome Fruit,China,Blue,2806.97,9.36,1,2,19
+F-0329,Mango,Pome Fruit,New Zealand,Black,2437.1,10.83,8,10,33
+F-0330,Raspberry,Tropical,New Zealand,Yellow,1858.5,22.34,4,1,21
+F-0331,Raspberry,Pome Fruit,Thailand,Orange,3409.45,12.59,5,6,34
+F-0332,Avocado,Citrus,Chile,Orange,2024.86,23.56,10,4,42
+F-0333,Mango,Citrus,Colombia,Purple,3701.01,8.81,5,2,35
+F-0334,Blueberry,Tropical,Thailand,Red,3484.11,20.43,2,2,29
+F-0335,Blackberry,Stone Fruit,Ecuador,Green,3679.82,16.82,3,7,10
+F-0336,Plum,Berry,Colombia,Yellow,2546.79,8.64,1,9,28
+F-0337,Strawberry,Melon,USA,Black,1274.79,4.91,2,3,38
+F-0338,Mango,Tropical,Peru,Blue,1989.64,17.55,9,8,2
+F-0339,Avocado,Citrus,South Africa,Black,2947.71,10.4,1,5,36
+F-0340,Papaya,Tropical,Mexico,Yellow,321.27,7.62,8,9,45
+F-0341,Raspberry,Melon,China,Purple,4869.07,23.04,7,4,40
+F-0342,Pineapple,Pome Fruit,Colombia,Purple,4561.82,2.14,6,8,38
+F-0343,Watermelon,Berry,Mexico,Blue,1840.32,15.04,5,5,27
+F-0344,Strawberry,Tropical,Brazil,Pink,1446.75,18.06,10,2,42
+F-0345,Apple,Pome Fruit,Colombia,Green,1813.31,5.54,7,3,12
+F-0346,Pineapple,Stone Fruit,USA,Red,4099.96,20.68,3,4,28
+F-0347,Kiwi,Tropical,Mexico,Red,4339.19,8.75,3,1,13
+F-0348,Grapes,Melon,Colombia,Blue,796.12,20.08,8,4,31
+F-0349,Strawberry,Berry,South Africa,Purple,2607.25,16.88,4,5,12
+F-0350,Apple,Melon,Peru,Purple,2889.25,6.47,9,1,35
+F-0351,Pear,Pome Fruit,USA,Pink,3558.36,12.13,2,9,25
+F-0352,Blackberry,Stone Fruit,India,Orange,3222.25,17.75,6,6,14
+F-0353,Papaya,Tropical,South Africa,Green,476.82,16.4,8,7,22
+F-0354,Orange,Pome Fruit,Italy,Yellow,1868.43,7.89,7,4,14
+F-0355,Apple,Citrus,India,Red,647.39,5.94,9,4,38
+F-0356,Kiwi,Melon,South Africa,Yellow,4621.01,1.87,3,2,44
+F-0357,Avocado,Citrus,Thailand,Green,1963.59,24.97,6,2,11
+F-0358,Plum,Tropical,Colombia,Red,973.65,4.24,2,6,24
+F-0359,Banana,Citrus,New Zealand,Red,4472.01,10.18,10,2,12
+F-0360,Plum,Pome Fruit,Italy,Pink,2676.82,15.02,8,10,30
+F-0361,Orange,Melon,Brazil,Orange,1489.28,22.97,3,8,41
+F-0362,Strawberry,Berry,New Zealand,Green,2588.58,2.51,6,6,27
+F-0363,Kiwi,Tropical,Peru,Blue,4420.25,18.95,6,7,14
+F-0364,Mango,Pome Fruit,Italy,Green,4566.17,17.45,5,1,9
+F-0365,Lime,Tropical,Chile,Blue,3678.37,10.68,1,1,25
+F-0366,Orange,Citrus,Colombia,Pink,4953.58,21.08,1,1,28
+F-0367,Lime,Melon,Mexico,Red,912.38,21.53,8,6,32
+F-0368,Banana,Stone Fruit,Costa Rica,Red,3228.13,9.28,8,5,42
+F-0369,Cherry,Tropical,India,Blue,4594.05,16.32,10,7,13
+F-0370,Avocado,Melon,India,Blue,3967.58,18.16,1,5,39
+F-0371,Pear,Melon,China,Black,1688.41,24.5,9,6,35
+F-0372,Banana,Pome Fruit,Brazil,Red,1214.13,7.79,3,6,14
+F-0373,Apple,Melon,USA,Purple,3975.57,11.65,3,2,6
+F-0374,Orange,Melon,Brazil,Yellow,3993.12,3.15,6,1,3
+F-0375,Mango,Stone Fruit,China,Blue,2260.1,4.0,5,6,31
+F-0376,Mango,Stone Fruit,Peru,Green,4680.07,2.32,3,5,32
+F-0377,Peach,Citrus,South Africa,Green,1662.66,23.98,9,9,44
+F-0378,Papaya,Pome Fruit,Spain,Orange,3228.38,22.53,6,6,4
+F-0379,Blueberry,Melon,USA,Pink,1613.74,2.17,6,7,33
+F-0380,Strawberry,Melon,Ecuador,Orange,398.68,1.0,7,4,31
+F-0381,Banana,Stone Fruit,Brazil,Orange,4962.27,10.13,10,10,40
+F-0382,Papaya,Citrus,Mexico,Yellow,3359.49,12.4,4,7,21
+F-0383,Apple,Pome Fruit,Brazil,Purple,1448.43,1.97,4,2,6
+F-0384,Blueberry,Stone Fruit,South Africa,Pink,1836.64,5.21,7,5,38
+F-0385,Strawberry,Pome Fruit,China,Red,3498.97,6.31,1,10,3
+F-0386,Pear,Berry,China,Black,2269.48,2.24,4,1,38
+F-0387,Pear,Citrus,Chile,Purple,1082.28,6.48,6,3,16
+F-0388,Apple,Stone Fruit,South Africa,Yellow,2575.96,10.78,2,10,2
+F-0389,Apple,Citrus,New Zealand,Yellow,2583.96,19.92,10,3,40
+F-0390,Raspberry,Citrus,Colombia,Red,3670.39,1.3,1,3,6
+F-0391,Blueberry,Melon,Italy,Pink,322.29,13.66,10,10,21
+F-0392,Raspberry,Melon,Mexico,Green,816.01,22.89,8,2,8
+F-0393,Plum,Tropical,South Africa,Black,4305.78,3.22,1,7,27
+F-0394,Lime,Stone Fruit,Peru,Pink,2445.44,14.54,7,10,9
+F-0395,Apple,Melon,South Africa,Red,4570.0,2.38,5,3,40
+F-0396,Pineapple,Melon,China,Green,2791.95,15.63,1,8,11
+F-0397,Avocado,Tropical,South Africa,Purple,1312.36,2.05,8,9,23
+F-0398,Lime,Stone Fruit,Mexico,Green,4798.54,10.47,5,5,21
+F-0399,Orange,Melon,Chile,Red,1800.02,12.07,10,10,27
+F-0400,Lemon,Stone Fruit,Italy,Blue,1494.42,9.33,7,5,40
+F-0401,Watermelon,Tropical,USA,Blue,2750.68,21.94,5,1,41
+F-0402,Watermelon,Pome Fruit,India,Purple,1030.83,19.01,8,5,32
+F-0403,Lemon,Tropical,Chile,Blue,2749.38,5.78,7,9,15
+F-0404,Banana,Tropical,Italy,Purple,902.61,7.2,8,1,4
+F-0405,Strawberry,Citrus,Brazil,Green,47.75,3.47,6,9,23
+F-0406,Banana,Stone Fruit,Chile,Green,3367.8,7.35,10,6,45
+F-0407,Banana,Berry,China,Green,4271.25,1.7,9,4,38
+F-0408,Avocado,Pome Fruit,Brazil,Red,3631.16,20.88,10,6,32
+F-0409,Kiwi,Berry,USA,Blue,1158.94,1.23,10,10,30
+F-0410,Orange,Stone Fruit,Brazil,Black,880.1,9.84,1,5,26
+F-0411,Cherry,Berry,New Zealand,Orange,1796.93,16.09,4,7,29
+F-0412,Watermelon,Pome Fruit,New Zealand,Black,3417.23,17.77,9,9,10
+F-0413,Pear,Tropical,USA,Red,3606.08,12.15,7,4,11
+F-0414,Banana,Berry,Costa Rica,Red,766.88,18.32,1,9,44
+F-0415,Watermelon,Pome Fruit,Italy,Yellow,287.58,5.68,4,10,24
+F-0416,Peach,Stone Fruit,Colombia,Yellow,4939.12,5.48,1,6,5
+F-0417,Grapes,Stone Fruit,Costa Rica,Orange,4153.34,7.17,7,10,28
+F-0418,Raspberry,Citrus,Colombia,Purple,1823.8,14.0,6,5,38
+F-0419,Papaya,Pome Fruit,Italy,Green,402.83,5.76,4,2,31
+F-0420,Banana,Tropical,Peru,Orange,1248.74,10.58,8,7,31
+F-0421,Blueberry,Melon,Spain,Purple,1687.18,8.93,8,5,23
+F-0422,Peach,Melon,Peru,Orange,3708.86,10.46,2,8,16
+F-0423,Apple,Berry,Mexico,Black,1352.91,1.75,7,7,18
+F-0424,Orange,Citrus,Thailand,Black,2171.1,17.9,6,9,13
+F-0425,Plum,Citrus,Ecuador,Yellow,4528.29,16.1,3,6,7
+F-0426,Lime,Tropical,Ecuador,Purple,3264.4,18.3,10,10,44
+F-0427,Plum,Pome Fruit,China,Blue,918.27,17.36,5,3,42
+F-0428,Raspberry,Berry,USA,Yellow,4203.6,14.84,3,10,14
+F-0429,Kiwi,Tropical,Thailand,Yellow,4229.84,19.17,5,1,25
+F-0430,Lemon,Pome Fruit,Ecuador,Purple,2275.5,19.08,9,9,16
+F-0431,Pineapple,Stone Fruit,Chile,Green,115.98,5.25,10,9,18
+F-0432,Pear,Pome Fruit,Colombia,Orange,1757.21,2.25,4,9,3
+F-0433,Blueberry,Stone Fruit,Costa Rica,Yellow,2521.99,7.22,10,4,45
+F-0434,Pineapple,Pome Fruit,Peru,Green,183.1,17.64,5,7,43
+F-0435,Apple,Stone Fruit,Spain,Pink,1775.41,2.15,2,3,42
+F-0436,Mango,Melon,Chile,Blue,4652.55,1.6,6,2,8
+F-0437,Cherry,Tropical,India,Green,1835.22,23.43,4,10,12
+F-0438,Raspberry,Pome Fruit,Mexico,Orange,4920.82,14.7,7,5,38
+F-0439,Avocado,Pome Fruit,Spain,Purple,1425.8,13.0,4,7,11
+F-0440,Orange,Citrus,Thailand,Pink,4215.7,8.08,4,8,37
+F-0441,Banana,Tropical,Ecuador,Orange,4282.71,13.49,10,5,16
+F-0442,Lemon,Tropical,China,Pink,245.92,2.62,1,10,20
+F-0443,Grapes,Melon,New Zealand,Red,3400.72,1.48,7,9,12
+F-0444,Cherry,Citrus,Mexico,Green,4067.6,13.26,3,7,14
+F-0445,Cherry,Stone Fruit,New Zealand,Orange,552.22,7.56,6,10,44
+F-0446,Papaya,Melon,Ecuador,Blue,1957.27,22.72,5,9,43
+F-0447,Strawberry,Berry,Ecuador,Blue,4306.09,21.86,7,4,25
+F-0448,Plum,Stone Fruit,Brazil,Black,4475.27,14.76,3,5,45
+F-0449,Lemon,Pome Fruit,Mexico,Green,4725.39,18.55,3,8,24
+F-0450,Avocado,Berry,Ecuador,Green,3779.21,9.68,3,10,24
+F-0451,Avocado,Pome Fruit,South Africa,Red,2854.39,22.01,7,4,28
+F-0452,Cherry,Pome Fruit,South Africa,Yellow,1562.36,15.58,2,2,21
+F-0453,Papaya,Pome Fruit,China,Pink,899.31,9.89,4,2,19
+F-0454,Blackberry,Citrus,Chile,Purple,3571.75,2.83,6,1,27
+F-0455,Pear,Tropical,Mexico,Pink,1254.71,3.55,1,9,2
+F-0456,Blackberry,Stone Fruit,Italy,Purple,3343.88,7.95,8,8,28
+F-0457,Apple,Citrus,Colombia,Purple,3523.57,11.1,9,7,12
+F-0458,Avocado,Stone Fruit,China,Green,565.83,11.78,5,2,45
+F-0459,Blackberry,Pome Fruit,Costa Rica,Black,4399.43,17.92,8,4,42
+F-0460,Raspberry,Melon,Mexico,Yellow,113.96,3.95,2,10,39
+F-0461,Raspberry,Berry,Mexico,Green,4731.68,15.44,3,8,40
+F-0462,Plum,Citrus,Costa Rica,Red,3289.72,17.36,2,8,5
+F-0463,Blueberry,Berry,Peru,Purple,4903.26,20.14,5,10,35
+F-0464,Papaya,Melon,Colombia,Purple,3739.42,24.84,6,4,37
+F-0465,Cherry,Berry,USA,Black,1860.65,21.44,3,1,45
+F-0466,Avocado,Melon,Colombia,Red,699.44,12.88,5,8,36
+F-0467,Avocado,Melon,Chile,Blue,2915.08,22.15,6,6,26
+F-0468,Blueberry,Tropical,Chile,Pink,3968.15,12.01,4,7,27
+F-0469,Raspberry,Stone Fruit,Ecuador,Yellow,3436.7,17.56,9,4,26
+F-0470,Cherry,Berry,Mexico,Blue,3974.81,1.8,8,10,15
+F-0471,Mango,Berry,Mexico,Yellow,1867.22,15.32,9,6,35
+F-0472,Orange,Berry,Thailand,Purple,3480.32,10.88,7,1,38
+F-0473,Peach,Stone Fruit,Peru,Green,1976.53,4.46,5,10,12
+F-0474,Lemon,Melon,China,Purple,3030.5,5.27,6,5,16
+F-0475,Pineapple,Berry,South Africa,Green,760.9,23.48,5,6,29
+F-0476,Lime,Melon,Italy,Red,441.56,9.18,4,3,13
+F-0477,Strawberry,Stone Fruit,Chile,Blue,4052.41,16.82,8,10,16
+F-0478,Lime,Berry,USA,Yellow,3890.73,11.95,4,7,6
+F-0479,Strawberry,Tropical,South Africa,Pink,688.42,9.24,1,4,12
+F-0480,Blackberry,Tropical,Ecuador,Black,93.59,8.87,3,10,27
+F-0481,Raspberry,Citrus,Spain,Red,3441.33,17.39,1,7,22
+F-0482,Watermelon,Citrus,Peru,Red,1498.63,14.3,2,9,34
+F-0483,Watermelon,Citrus,India,Pink,4192.27,22.74,8,6,39
+F-0484,Plum,Berry,India,Pink,4476.33,14.84,5,4,13
+F-0485,Blackberry,Melon,New Zealand,Blue,3044.19,8.16,4,7,33
+F-0486,Pineapple,Stone Fruit,Costa Rica,Pink,1113.98,3.22,6,8,15
+F-0487,Papaya,Stone Fruit,USA,Red,1436.29,7.31,6,9,43
+F-0488,Strawberry,Pome Fruit,Colombia,Orange,2294.98,11.56,1,6,23
+F-0489,Mango,Tropical,Thailand,Yellow,464.66,18.85,1,8,3
+F-0490,Plum,Berry,Brazil,Pink,4280.9,24.67,4,9,35
+F-0491,Orange,Tropical,China,Yellow,2728.25,1.89,3,4,41
+F-0492,Blackberry,Citrus,Colombia,Pink,2620.22,15.72,5,7,38
+F-0493,Raspberry,Stone Fruit,Brazil,Pink,1615.4,23.9,3,3,44
+F-0494,Pineapple,Pome Fruit,Spain,Purple,3637.19,20.51,2,4,36
+F-0495,Mango,Tropical,Ecuador,Purple,1963.09,14.61,1,10,17
+F-0496,Apple,Citrus,New Zealand,Orange,3542.59,21.9,6,9,26
+F-0497,Blueberry,Berry,Ecuador,Black,625.89,7.03,1,7,32
+F-0498,Papaya,Tropical,USA,Blue,3315.05,6.46,7,7,27
+F-0499,Pear,Berry,Ecuador,Blue,2990.08,1.74,9,4,43
+F-0500,Lime,Pome Fruit,Mexico,Red,4485.91,24.05,2,9,25
+F-0501,Apple,Pome Fruit,Chile,Red,1278.26,5.25,3,5,21
+F-0502,Avocado,Stone Fruit,Italy,Pink,4596.65,24.49,2,5,24
+F-0503,Pineapple,Tropical,Chile,Red,2810.07,23.28,7,6,10
+F-0504,Blackberry,Tropical,Colombia,Purple,272.46,10.56,6,5,41
+F-0505,Pear,Citrus,USA,Purple,1651.49,8.61,8,1,27
+F-0506,Peach,Pome Fruit,USA,Pink,502.05,23.6,5,6,24
+F-0507,Grapes,Stone Fruit,India,Orange,1100.82,19.54,8,3,32
+F-0508,Mango,Citrus,Thailand,Pink,2727.15,21.92,1,10,17
+F-0509,Watermelon,Tropical,Mexico,Yellow,3618.03,0.61,2,1,15
+F-0510,Papaya,Tropical,Chile,Green,1871.3,21.96,8,8,25
+F-0511,Papaya,Citrus,Brazil,Purple,1136.44,8.3,8,2,17
+F-0512,Apple,Melon,New Zealand,Green,3090.43,23.38,5,9,35
+F-0513,Watermelon,Citrus,New Zealand,Green,3447.52,9.3,4,5,9
+F-0514,Orange,Melon,India,Yellow,1785.07,16.79,10,4,30
+F-0515,Watermelon,Tropical,Spain,Orange,3591.63,15.65,4,6,8
+F-0516,Kiwi,Pome Fruit,Brazil,Pink,959.4,17.17,1,6,31
+F-0517,Orange,Melon,New Zealand,Yellow,2846.11,10.15,6,3,30
+F-0518,Lime,Pome Fruit,Spain,Black,2438.99,3.41,3,9,19
+F-0519,Cherry,Melon,China,Blue,4468.24,8.99,1,2,10
+F-0520,Lemon,Tropical,Thailand,Orange,113.74,5.34,10,6,6
+F-0521,Pear,Melon,South Africa,Yellow,3700.98,15.31,1,7,38
+F-0522,Raspberry,Stone Fruit,Costa Rica,Yellow,244.46,21.46,4,2,8
+F-0523,Kiwi,Stone Fruit,USA,Blue,2490.59,4.01,5,2,19
+F-0524,Pineapple,Tropical,Italy,Black,1682.21,2.38,5,6,4
+F-0525,Peach,Stone Fruit,Mexico,Orange,2884.54,10.92,8,7,26
+F-0526,Watermelon,Citrus,India,Pink,4220.89,1.85,5,2,15
+F-0527,Strawberry,Citrus,USA,Purple,1587.81,13.25,9,8,36
+F-0528,Watermelon,Tropical,Brazil,Blue,3389.59,13.58,5,10,30
+F-0529,Banana,Citrus,Chile,Black,2778.42,1.78,4,3,24
+F-0530,Mango,Tropical,South Africa,Blue,1997.98,14.07,8,10,12
+F-0531,Plum,Pome Fruit,Costa Rica,Green,4596.13,12.3,1,6,18
+F-0532,Avocado,Tropical,China,Black,68.98,14.28,5,1,9
+F-0533,Banana,Melon,Thailand,Pink,448.35,21.96,1,4,29
+F-0534,Strawberry,Citrus,Peru,Black,2344.26,24.88,7,9,10
+F-0535,Blackberry,Tropical,Colombia,Purple,4123.6,8.93,2,6,42
+F-0536,Watermelon,Stone Fruit,Peru,Black,102.63,24.59,3,9,30
+F-0537,Grapes,Berry,Italy,Orange,4015.89,11.0,6,2,5
+F-0538,Mango,Citrus,Chile,Yellow,2442.46,11.99,5,1,34
+F-0539,Avocado,Citrus,New Zealand,Pink,3678.92,9.47,8,3,37
+F-0540,Grapes,Pome Fruit,Ecuador,Black,3884.7,1.13,2,5,17
+F-0541,Pineapple,Citrus,Costa Rica,Green,4921.24,4.82,1,9,20
+F-0542,Blueberry,Melon,India,Black,3716.53,22.84,1,10,31
+F-0543,Apple,Tropical,South Africa,Red,4697.16,5.48,2,8,42
+F-0544,Papaya,Stone Fruit,Colombia,Pink,2531.91,2.13,4,2,25
+F-0545,Papaya,Tropical,Peru,Blue,2811.44,22.58,2,5,34
+F-0546,Apple,Tropical,Spain,Red,388.28,9.3,3,4,2
+F-0547,Pineapple,Citrus,Brazil,Orange,4197.21,12.03,5,9,33
+F-0548,Avocado,Pome Fruit,USA,Black,4286.95,20.46,3,8,7
+F-0549,Apple,Melon,Chile,Black,3117.31,2.63,6,8,14
+F-0550,Apple,Melon,India,Pink,1633.53,2.2,10,1,24
+F-0551,Plum,Berry,Colombia,Red,86.11,12.95,8,6,12
+F-0552,Peach,Stone Fruit,China,Yellow,964.66,1.52,3,2,15
+F-0553,Blueberry,Melon,China,Purple,392.99,0.6,4,3,30
+F-0554,Pineapple,Citrus,Spain,Purple,101.53,11.32,5,4,9
+F-0555,Orange,Pome Fruit,Italy,Blue,1533.08,3.67,9,7,5
+F-0556,Watermelon,Melon,Spain,Blue,4532.07,3.97,6,10,20
+F-0557,Blueberry,Stone Fruit,Chile,Pink,2840.79,18.82,4,3,34
+F-0558,Papaya,Tropical,USA,Red,4104.42,10.27,5,7,14
+F-0559,Strawberry,Tropical,India,Orange,2920.66,1.7,5,8,25
+F-0560,Peach,Pome Fruit,Colombia,Yellow,1844.05,0.55,2,5,35
+F-0561,Mango,Berry,Italy,Green,1183.65,15.47,1,9,9
+F-0562,Peach,Tropical,Colombia,Orange,4671.88,9.48,4,7,5
+F-0563,Kiwi,Pome Fruit,South Africa,Purple,306.8,9.02,5,8,42
+F-0564,Banana,Melon,Colombia,Red,137.67,14.84,3,1,19
+F-0565,Mango,Tropical,USA,Pink,661.75,4.34,1,9,43
+F-0566,Lime,Berry,Costa Rica,Orange,3585.71,3.93,6,4,28
+F-0567,Blueberry,Pome Fruit,Italy,Orange,3336.07,19.32,2,10,15
+F-0568,Orange,Stone Fruit,Costa Rica,Purple,3569.74,11.19,9,1,18
+F-0569,Lime,Stone Fruit,Chile,Blue,3171.37,14.16,2,9,39
+F-0570,Lime,Berry,Chile,Blue,3054.52,5.0,8,6,45
+F-0571,Mango,Berry,Spain,Orange,862.1,4.07,5,2,15
+F-0572,Kiwi,Berry,USA,Black,4955.79,19.57,5,5,31
+F-0573,Papaya,Citrus,China,Red,406.84,24.95,8,3,28
+F-0574,Lime,Stone Fruit,Brazil,Purple,3474.38,12.75,5,8,21
+F-0575,Raspberry,Citrus,Spain,Red,3766.39,14.62,1,4,39
+F-0576,Orange,Stone Fruit,Colombia,Yellow,3985.6,10.73,5,7,3
+F-0577,Pineapple,Stone Fruit,China,Black,3719.57,10.1,8,8,8
+F-0578,Mango,Stone Fruit,USA,Red,2065.84,21.9,4,4,33
+F-0579,Pear,Tropical,Thailand,Green,3078.03,15.75,7,4,37
+F-0580,Raspberry,Citrus,China,Blue,2037.3,24.44,9,7,41
+F-0581,Orange,Stone Fruit,Colombia,Black,1455.56,14.24,7,9,7
+F-0582,Blackberry,Melon,New Zealand,Red,730.8,6.53,4,2,40
+F-0583,Banana,Melon,South Africa,Red,2948.2,16.13,3,1,7
+F-0584,Strawberry,Berry,Thailand,Green,2017.23,1.94,7,3,17
+F-0585,Cherry,Citrus,India,Pink,2434.23,5.4,1,9,8
+F-0586,Watermelon,Citrus,Chile,Black,4747.48,6.77,2,3,29
+F-0587,Mango,Pome Fruit,Colombia,Green,349.01,13.11,10,4,5
+F-0588,Avocado,Stone Fruit,Spain,Red,1979.73,16.56,10,1,10
+F-0589,Peach,Citrus,Italy,Yellow,2976.01,16.87,7,6,26
+F-0590,Cherry,Stone Fruit,South Africa,Black,4601.71,17.19,1,6,29
+F-0591,Blueberry,Melon,Thailand,Yellow,4611.96,16.11,6,9,39
+F-0592,Blueberry,Tropical,USA,Orange,3034.31,4.87,10,3,40
+F-0593,Pineapple,Berry,Mexico,Blue,910.94,2.95,5,4,36
+F-0594,Kiwi,Stone Fruit,China,Green,4035.69,6.76,8,2,13
+F-0595,Banana,Pome Fruit,New Zealand,Pink,3487.61,13.8,4,1,42
+F-0596,Blackberry,Pome Fruit,Costa Rica,Blue,4278.92,6.64,7,7,26
+F-0597,Banana,Tropical,USA,Blue,4784.26,19.72,10,5,13
+F-0598,Apple,Melon,Costa Rica,Orange,2305.2,24.2,9,10,33
+F-0599,Strawberry,Berry,Colombia,Blue,526.15,13.88,8,1,6
+F-0600,Avocado,Pome Fruit,Ecuador,Green,1636.16,16.98,1,3,39
+F-0601,Watermelon,Pome Fruit,India,Green,1486.18,9.17,3,8,18
+F-0602,Cherry,Citrus,USA,Black,4341.43,2.35,7,4,40
+F-0603,Pineapple,Pome Fruit,Italy,Pink,1239.12,17.82,3,5,19
+F-0604,Cherry,Stone Fruit,South Africa,Pink,1009.77,2.18,6,9,23
+F-0605,Pineapple,Stone Fruit,Peru,Green,3706.65,4.92,1,6,21
+F-0606,Apple,Berry,New Zealand,Green,47.41,3.64,5,5,24
+F-0607,Avocado,Melon,Brazil,Blue,735.17,10.5,6,6,34
+F-0608,Papaya,Stone Fruit,Peru,Yellow,2125.78,12.86,9,4,18
+F-0609,Orange,Berry,Ecuador,Black,3723.35,15.76,10,10,17
+F-0610,Plum,Berry,India,Black,3451.22,14.93,6,8,36
+F-0611,Lemon,Stone Fruit,Costa Rica,Green,4321.37,19.51,6,10,20
+F-0612,Lemon,Pome Fruit,Italy,Blue,1057.26,6.24,4,10,12
+F-0613,Papaya,Berry,Ecuador,Black,4759.02,16.46,2,9,19
+F-0614,Watermelon,Pome Fruit,India,Pink,2890.22,23.93,7,9,45
+F-0615,Orange,Berry,China,Black,3133.69,4.48,10,10,27
+F-0616,Pineapple,Berry,USA,Blue,4704.25,8.86,2,1,36
+F-0617,Avocado,Berry,Mexico,Purple,4424.42,19.27,1,9,5
+F-0618,Mango,Berry,Mexico,Black,1002.11,16.25,8,7,17
+F-0619,Grapes,Berry,USA,Red,2424.18,12.65,3,10,29
+F-0620,Blueberry,Stone Fruit,Ecuador,Red,580.35,23.32,8,8,33
+F-0621,Mango,Stone Fruit,Mexico,Blue,606.25,16.89,1,7,28
+F-0622,Banana,Citrus,Costa Rica,Pink,2345.02,18.0,3,6,11
+F-0623,Raspberry,Stone Fruit,Brazil,Green,3931.83,15.08,6,4,12
+F-0624,Plum,Tropical,Chile,Pink,1247.88,19.27,3,8,3
+F-0625,Lime,Melon,South Africa,Green,3128.35,18.57,9,5,25
+F-0626,Pineapple,Berry,Italy,Purple,4300.57,24.16,7,2,44
+F-0627,Strawberry,Citrus,India,Blue,1450.49,20.49,1,4,34
+F-0628,Avocado,Melon,USA,Red,2376.16,4.71,4,2,10
+F-0629,Lime,Tropical,Thailand,Purple,3252.9,20.13,6,5,15
+F-0630,Blueberry,Tropical,Mexico,Black,3563.8,22.35,1,9,30
+F-0631,Papaya,Melon,Ecuador,Purple,2699.91,1.95,9,3,34
+F-0632,Blueberry,Berry,Mexico,Black,1870.29,8.42,3,5,29
+F-0633,Apple,Berry,Mexico,Black,1969.38,5.21,1,5,45
+F-0634,Papaya,Melon,Thailand,Pink,3362.8,20.37,4,7,30
+F-0635,Blackberry,Melon,Italy,Green,3758.8,10.7,6,1,23
+F-0636,Orange,Tropical,New Zealand,Pink,4373.55,24.06,3,2,14
+F-0637,Blackberry,Stone Fruit,USA,Green,4408.9,5.16,8,8,11
+F-0638,Blueberry,Pome Fruit,South Africa,Blue,251.02,21.43,6,7,32
+F-0639,Cherry,Pome Fruit,Mexico,Green,882.56,12.99,10,1,14
+F-0640,Apple,Melon,South Africa,Yellow,1467.09,17.81,5,10,23
+F-0641,Lime,Melon,South Africa,Purple,3726.92,17.96,5,6,16
+F-0642,Blueberry,Berry,Chile,Yellow,1432.14,3.28,10,7,2
+F-0643,Banana,Citrus,Costa Rica,Pink,4971.4,9.48,1,3,14
+F-0644,Blackberry,Pome Fruit,New Zealand,Yellow,1024.99,3.93,2,5,34
+F-0645,Pineapple,Berry,Thailand,Red,1731.65,14.22,10,2,35
+F-0646,Orange,Melon,India,Blue,1200.72,15.45,8,5,32
+F-0647,Grapes,Melon,Mexico,Red,2413.54,23.61,5,2,33
+F-0648,Watermelon,Tropical,South Africa,Purple,2033.29,9.17,6,3,13
+F-0649,Mango,Berry,Costa Rica,Black,1094.98,16.75,9,4,26
+F-0650,Plum,Melon,Peru,Blue,528.47,4.63,2,5,8
+F-0651,Blackberry,Berry,India,Yellow,3387.67,24.73,10,3,38
+F-0652,Papaya,Pome Fruit,Brazil,Red,3218.39,14.25,1,2,41
+F-0653,Raspberry,Berry,Spain,Blue,765.16,6.53,5,4,15
+F-0654,Peach,Tropical,New Zealand,Orange,3181.43,20.96,5,6,24
+F-0655,Pear,Pome Fruit,Mexico,Purple,1042.56,10.59,8,9,42
+F-0656,Kiwi,Melon,Ecuador,Red,1816.06,9.41,8,5,41
+F-0657,Banana,Melon,Chile,Orange,4085.55,1.24,6,7,17
+F-0658,Cherry,Tropical,Peru,Blue,3995.19,24.89,10,10,31
+F-0659,Plum,Citrus,India,Green,4029.43,24.04,8,8,25
+F-0660,Peach,Citrus,Brazil,Black,4771.12,16.44,9,3,39
+F-0661,Lemon,Pome Fruit,Ecuador,Orange,3639.48,19.37,6,2,15
+F-0662,Avocado,Pome Fruit,Chile,Blue,4278.04,19.2,4,8,39
+F-0663,Blackberry,Stone Fruit,Ecuador,Orange,582.68,5.61,1,4,40
+F-0664,Apple,Melon,Costa Rica,Yellow,1075.11,23.13,4,10,23
+F-0665,Plum,Melon,Italy,Pink,2771.39,4.63,10,3,5
+F-0666,Peach,Citrus,New Zealand,Orange,1475.81,19.35,6,8,14
+F-0667,Blueberry,Stone Fruit,USA,Black,1962.22,4.65,9,5,31
+F-0668,Plum,Tropical,USA,Red,4199.02,4.9,9,6,21
+F-0669,Banana,Pome Fruit,Mexico,Red,2213.03,1.04,8,5,40
+F-0670,Orange,Tropical,Peru,Green,1507.11,6.15,5,9,22
+F-0671,Papaya,Berry,Colombia,Orange,4482.95,12.39,5,5,43
+F-0672,Pear,Stone Fruit,India,Red,4742.8,14.54,8,10,42
+F-0673,Plum,Melon,China,Yellow,3788.93,17.5,1,6,33
+F-0674,Papaya,Melon,China,Black,287.78,8.31,8,4,20
+F-0675,Strawberry,Melon,Thailand,Blue,2579.82,9.12,2,7,42
+F-0676,Kiwi,Tropical,Peru,Pink,3668.95,11.41,1,1,18
+F-0677,Blackberry,Berry,Spain,Black,2818.48,2.53,3,10,9
+F-0678,Pear,Tropical,Costa Rica,Orange,3517.61,18.1,7,4,5
+F-0679,Orange,Pome Fruit,South Africa,Black,2139.59,15.8,6,10,41
+F-0680,Pear,Melon,Chile,Red,309.35,3.33,7,9,20
+F-0681,Apple,Stone Fruit,USA,Purple,959.58,15.66,3,7,7
+F-0682,Papaya,Pome Fruit,USA,Red,2441.48,17.75,6,8,40
+F-0683,Pear,Citrus,India,Yellow,1534.68,22.78,7,7,17
+F-0684,Pear,Stone Fruit,New Zealand,Orange,2634.78,12.89,7,2,25
+F-0685,Peach,Melon,Italy,Blue,1942.74,5.94,10,8,31
+F-0686,Lemon,Pome Fruit,India,Red,3393.06,22.18,2,4,34
+F-0687,Lemon,Stone Fruit,Mexico,Red,366.3,19.72,10,8,17
+F-0688,Pear,Pome Fruit,India,Green,1166.13,19.28,4,5,26
+F-0689,Pear,Stone Fruit,USA,Green,4831.26,7.15,1,2,35
+F-0690,Lemon,Berry,New Zealand,Black,4999.31,24.03,1,6,26
+F-0691,Cherry,Citrus,China,Green,358.77,8.43,2,3,33
+F-0692,Lime,Tropical,Mexico,Green,214.16,18.9,4,7,39
+F-0693,Banana,Pome Fruit,Spain,Pink,3584.45,1.79,7,7,44
+F-0694,Blackberry,Pome Fruit,Costa Rica,Green,2600.21,18.41,4,9,30
+F-0695,Lemon,Stone Fruit,Costa Rica,Blue,3709.94,14.87,9,5,40
+F-0696,Banana,Pome Fruit,Colombia,Pink,4465.09,13.54,5,10,19
+F-0697,Watermelon,Berry,New Zealand,Purple,1187.38,21.22,6,8,15
+F-0698,Orange,Melon,Brazil,Orange,341.18,24.18,9,5,15
+F-0699,Blackberry,Stone Fruit,Brazil,Pink,1838.91,0.76,4,9,42
+F-0700,Orange,Pome Fruit,Spain,Green,2440.45,6.58,10,8,9
+F-0701,Strawberry,Pome Fruit,Italy,Green,815.75,16.44,3,9,21
+F-0702,Mango,Citrus,India,Yellow,3913.09,1.6,9,8,23
+F-0703,Pear,Pome Fruit,Peru,Pink,1772.61,19.1,7,9,38
+F-0704,Avocado,Stone Fruit,Chile,Purple,3755.11,13.82,9,7,30
+F-0705,Grapes,Melon,Thailand,Black,2793.95,13.83,6,2,17
+F-0706,Papaya,Berry,Italy,Blue,705.89,12.55,8,5,2
+F-0707,Papaya,Stone Fruit,Thailand,Pink,4451.0,11.21,2,3,16
+F-0708,Avocado,Citrus,Chile,Green,4493.06,7.35,1,4,23
+F-0709,Apple,Pome Fruit,Ecuador,Red,4243.98,11.8,4,8,17
+F-0710,Strawberry,Pome Fruit,Brazil,Red,115.38,5.94,1,3,8
+F-0711,Pineapple,Melon,Ecuador,Blue,611.74,4.49,5,6,6
+F-0712,Blackberry,Berry,Brazil,Black,729.09,24.82,9,2,27
+F-0713,Papaya,Stone Fruit,Italy,Blue,397.05,6.44,8,1,30
+F-0714,Mango,Tropical,India,Orange,1391.93,22.71,5,1,43
+F-0715,Watermelon,Stone Fruit,Chile,Black,1124.01,24.23,7,10,13
+F-0716,Kiwi,Melon,Peru,Green,979.81,18.04,8,6,22
+F-0717,Mango,Stone Fruit,India,Orange,3008.86,6.81,10,3,20
+F-0718,Lime,Tropical,USA,Blue,153.06,1.83,1,9,34
+F-0719,Strawberry,Pome Fruit,USA,Black,2661.29,19.36,2,4,15
+F-0720,Apple,Stone Fruit,China,Red,4916.09,4.25,6,4,23
+F-0721,Pineapple,Tropical,Colombia,Green,421.79,4.81,2,6,44
+F-0722,Avocado,Stone Fruit,Thailand,Purple,4958.84,8.43,6,9,3
+F-0723,Cherry,Tropical,Brazil,Yellow,2283.52,4.64,9,4,34
+F-0724,Mango,Stone Fruit,Brazil,Red,940.83,5.35,3,7,31
+F-0725,Watermelon,Stone Fruit,USA,Purple,936.37,23.82,2,5,19
+F-0726,Avocado,Melon,South Africa,Red,3384.67,21.57,3,4,34
+F-0727,Blueberry,Melon,Peru,Green,4559.5,12.42,10,8,19
+F-0728,Mango,Tropical,Mexico,Pink,1033.37,24.73,8,6,45
+F-0729,Apple,Berry,Chile,Red,657.76,19.37,3,6,36
+F-0730,Plum,Tropical,Chile,Purple,239.09,17.99,3,4,35
+F-0731,Lemon,Melon,Costa Rica,Blue,368.24,9.33,8,8,25
+F-0732,Cherry,Melon,South Africa,Purple,3742.47,1.98,9,2,16
+F-0733,Cherry,Melon,Chile,Yellow,2869.21,22.26,4,5,32
+F-0734,Orange,Citrus,China,Red,4426.81,19.72,6,4,32
+F-0735,Peach,Pome Fruit,Ecuador,Yellow,2253.46,18.42,8,9,20
+F-0736,Blueberry,Citrus,Thailand,Red,1544.81,24.59,9,7,20
+F-0737,Papaya,Tropical,China,Pink,2200.56,10.04,2,7,3
+F-0738,Avocado,Tropical,Thailand,Yellow,232.22,9.5,6,1,40
+F-0739,Watermelon,Citrus,Peru,Orange,2549.1,7.15,6,2,39
+F-0740,Mango,Pome Fruit,Costa Rica,Green,3102.16,18.61,6,6,29
+F-0741,Lemon,Citrus,Colombia,Orange,2263.59,2.81,7,3,32
+F-0742,Peach,Pome Fruit,Thailand,Orange,3844.2,18.33,5,4,34
+F-0743,Watermelon,Citrus,Peru,Yellow,846.4,7.45,6,9,24
+F-0744,Avocado,Berry,Italy,Pink,274.2,11.21,7,3,39
+F-0745,Cherry,Pome Fruit,Mexico,Purple,3818.26,17.32,10,6,28
+F-0746,Orange,Tropical,Ecuador,Purple,922.66,16.41,10,10,40
+F-0747,Watermelon,Tropical,Costa Rica,Yellow,900.99,14.6,3,1,41
+F-0748,Papaya,Pome Fruit,Peru,Blue,1940.38,5.88,9,2,9
+F-0749,Strawberry,Pome Fruit,South Africa,Green,4647.24,6.92,2,6,30
+F-0750,Orange,Pome Fruit,Ecuador,Black,4648.35,12.5,2,10,18
+F-0751,Plum,Pome Fruit,New Zealand,Yellow,2365.45,1.36,6,10,45
+F-0752,Banana,Stone Fruit,Chile,Yellow,2793.0,22.2,4,8,37
+F-0753,Blueberry,Citrus,Costa Rica,Pink,2453.48,16.23,10,5,20
+F-0754,Watermelon,Stone Fruit,Italy,Red,443.14,6.48,3,1,11
+F-0755,Kiwi,Citrus,Chile,Orange,200.96,13.46,5,3,18
+F-0756,Orange,Berry,Mexico,Black,4240.57,20.82,6,9,17
+F-0757,Avocado,Pome Fruit,India,Orange,4517.86,12.4,7,5,34
+F-0758,Pineapple,Stone Fruit,South Africa,Yellow,3824.13,8.19,8,7,25
+F-0759,Blackberry,Berry,Mexico,Pink,1278.87,19.4,9,7,31
+F-0760,Kiwi,Tropical,South Africa,Blue,2370.91,15.01,2,5,42
+F-0761,Raspberry,Berry,New Zealand,Pink,1301.56,16.28,8,5,16
+F-0762,Pineapple,Stone Fruit,Peru,Orange,1581.64,2.44,8,3,39
+F-0763,Lemon,Melon,New Zealand,Black,4904.98,2.2,3,1,6
+F-0764,Blackberry,Tropical,Spain,Black,512.46,24.39,10,3,19
+F-0765,Blueberry,Citrus,Spain,Yellow,4100.28,10.99,9,5,20
+F-0766,Pear,Stone Fruit,Spain,Pink,1380.41,6.96,2,5,26
+F-0767,Pineapple,Pome Fruit,South Africa,Orange,2840.6,15.22,7,7,2
+F-0768,Cherry,Citrus,Colombia,Blue,4666.65,2.53,5,6,4
+F-0769,Blueberry,Berry,Ecuador,Pink,4452.65,21.22,8,6,10
+F-0770,Mango,Pome Fruit,Brazil,Orange,3634.54,1.41,3,8,16
+F-0771,Lime,Berry,India,Pink,400.87,15.58,2,8,28
+F-0772,Papaya,Pome Fruit,Chile,Purple,1599.85,15.47,4,9,2
+F-0773,Grapes,Stone Fruit,Costa Rica,Yellow,1132.44,24.45,6,4,30
+F-0774,Blueberry,Berry,China,Green,3595.0,15.5,5,10,23
+F-0775,Grapes,Stone Fruit,Brazil,Blue,3749.0,21.21,9,5,5
+F-0776,Strawberry,Citrus,Chile,Green,2331.2,5.8,5,8,38
+F-0777,Orange,Berry,South Africa,Black,2380.87,6.9,1,7,19
+F-0778,Cherry,Citrus,India,Red,4474.97,15.88,10,3,6
+F-0779,Lemon,Pome Fruit,Spain,Blue,2118.32,22.09,4,2,36
+F-0780,Apple,Pome Fruit,USA,Orange,3182.66,7.9,2,1,10
+F-0781,Peach,Pome Fruit,New Zealand,Pink,1275.31,2.64,5,8,4
+F-0782,Blackberry,Pome Fruit,Colombia,Blue,4721.86,1.38,9,3,19
+F-0783,Orange,Stone Fruit,Brazil,Purple,4195.91,21.98,4,9,8
+F-0784,Grapes,Citrus,China,Red,4709.96,22.25,3,4,31
+F-0785,Apple,Stone Fruit,Mexico,Yellow,3083.67,8.47,9,8,25
+F-0786,Mango,Citrus,Colombia,Black,3291.87,4.61,6,5,30
+F-0787,Watermelon,Citrus,China,Green,2455.69,3.46,7,4,11
+F-0788,Blueberry,Pome Fruit,Spain,Orange,693.13,21.13,3,7,40
+F-0789,Lemon,Tropical,China,Orange,4587.96,13.78,7,7,13
+F-0790,Peach,Melon,Peru,Pink,2644.87,23.57,5,4,26
+F-0791,Raspberry,Pome Fruit,India,Orange,629.49,20.38,6,10,22
+F-0792,Lime,Melon,India,Orange,2357.3,21.57,10,1,31
+F-0793,Orange,Stone Fruit,Colombia,Red,4718.49,15.91,8,2,21
+F-0794,Blueberry,Stone Fruit,Costa Rica,Yellow,656.14,22.18,1,2,41
+F-0795,Watermelon,Pome Fruit,Ecuador,Purple,2421.53,1.06,7,7,4
+F-0796,Papaya,Pome Fruit,Costa Rica,Red,4107.11,10.63,8,7,13
+F-0797,Mango,Pome Fruit,USA,Yellow,2180.83,4.55,6,8,9
+F-0798,Plum,Berry,Ecuador,Purple,4095.52,15.0,7,7,15
+F-0799,Blueberry,Pome Fruit,Peru,Blue,4508.83,13.4,6,1,11
+F-0800,Peach,Tropical,South Africa,Black,452.22,23.73,3,8,26
+F-0801,Pineapple,Pome Fruit,Thailand,Red,1730.23,22.79,8,6,30
+F-0802,Lemon,Citrus,Spain,Green,1827.99,5.9,2,7,37
+F-0803,Plum,Berry,Ecuador,Black,3365.69,10.6,7,6,28
+F-0804,Blueberry,Tropical,Thailand,Yellow,3902.89,12.25,10,8,11
+F-0805,Orange,Pome Fruit,Mexico,Black,4141.31,10.56,10,3,38
+F-0806,Lime,Stone Fruit,Peru,Blue,1435.47,23.89,3,5,34
+F-0807,Blueberry,Citrus,China,Orange,2883.68,20.34,9,4,33
+F-0808,Strawberry,Pome Fruit,Costa Rica,Orange,700.59,13.08,9,6,34
+F-0809,Strawberry,Pome Fruit,Peru,Pink,783.0,10.02,4,8,45
+F-0810,Lime,Melon,New Zealand,Yellow,1488.24,7.33,4,3,6
+F-0811,Lime,Berry,Thailand,Yellow,72.08,19.71,6,3,3
+F-0812,Cherry,Melon,Costa Rica,Yellow,2692.77,10.25,3,4,5
+F-0813,Raspberry,Pome Fruit,New Zealand,Blue,846.24,5.65,1,2,36
+F-0814,Pineapple,Melon,USA,Blue,2758.68,4.39,7,8,31
+F-0815,Blueberry,Melon,Costa Rica,Red,4679.95,16.06,5,7,7
+F-0816,Cherry,Melon,China,Orange,3034.61,1.96,7,8,19
+F-0817,Kiwi,Citrus,Thailand,Black,3095.11,23.03,3,6,14
+F-0818,Banana,Citrus,Brazil,Pink,232.21,17.61,2,2,30
+F-0819,Mango,Melon,Costa Rica,Green,435.85,6.82,7,2,23
+F-0820,Banana,Stone Fruit,Italy,Purple,1468.81,11.96,4,4,45
+F-0821,Pineapple,Berry,Spain,Purple,4043.42,4.16,10,8,16
+F-0822,Pear,Melon,USA,Orange,2670.21,15.77,4,3,7
+F-0823,Orange,Tropical,Chile,Green,2467.79,18.19,8,6,18
+F-0824,Plum,Citrus,Costa Rica,Purple,2525.53,1.83,4,2,8
+F-0825,Strawberry,Stone Fruit,New Zealand,Blue,1193.79,15.51,9,10,22
+F-0826,Lime,Pome Fruit,Brazil,Purple,2179.45,8.38,6,10,13
+F-0827,Lemon,Citrus,New Zealand,Black,4742.57,21.61,3,4,36
+F-0828,Strawberry,Berry,Thailand,Green,4532.98,1.48,1,5,7
+F-0829,Plum,Berry,Colombia,Red,4233.8,1.13,4,9,13
+F-0830,Orange,Citrus,Chile,Orange,3707.4,19.04,8,9,45
+F-0831,Blackberry,Citrus,Spain,Purple,2091.68,12.95,7,10,16
+F-0832,Pear,Berry,Italy,Blue,2267.57,18.93,5,2,39
+F-0833,Banana,Berry,Peru,Green,2358.97,15.82,8,9,16
+F-0834,Avocado,Berry,Peru,Green,943.58,4.23,2,1,8
+F-0835,Blueberry,Citrus,USA,Purple,443.22,21.69,5,4,15
+F-0836,Lime,Stone Fruit,China,Blue,2099.42,3.85,5,3,17
+F-0837,Plum,Berry,Ecuador,Orange,4090.26,5.19,5,3,18
+F-0838,Orange,Tropical,India,Black,2036.27,7.0,8,6,9
+F-0839,Papaya,Pome Fruit,South Africa,Purple,1023.98,15.83,8,8,39
+F-0840,Avocado,Tropical,Peru,Red,1402.12,13.83,3,8,39
+F-0841,Banana,Berry,South Africa,Orange,3540.16,9.32,8,6,15
+F-0842,Plum,Tropical,Peru,Orange,3171.97,10.59,10,9,40
+F-0843,Plum,Tropical,Brazil,Red,1010.19,10.86,8,4,6
+F-0844,Apple,Pome Fruit,Colombia,Black,4385.12,7.65,6,5,32
+F-0845,Lime,Melon,Costa Rica,Green,1020.78,3.71,4,2,25
+F-0846,Watermelon,Berry,Colombia,Orange,3040.06,5.89,8,3,19
+F-0847,Apple,Berry,Spain,Green,1924.04,24.81,3,9,30
+F-0848,Cherry,Tropical,Spain,Blue,2680.09,4.62,3,8,25
+F-0849,Grapes,Melon,Peru,Blue,3283.11,14.41,6,2,25
+F-0850,Watermelon,Tropical,Costa Rica,Red,559.41,7.28,9,3,26
+F-0851,Strawberry,Citrus,Spain,Pink,4160.77,2.98,1,2,16
+F-0852,Grapes,Melon,Peru,Orange,3307.36,2.26,5,2,16
+F-0853,Pear,Citrus,Italy,Black,3350.49,24.24,5,9,26
+F-0854,Cherry,Citrus,Italy,Purple,3468.11,18.33,1,1,34
+F-0855,Banana,Berry,Mexico,Blue,716.6,1.7,3,5,15
+F-0856,Banana,Tropical,Mexico,Yellow,646.97,7.3,2,9,45
+F-0857,Papaya,Melon,China,Red,4972.93,23.31,2,10,29
+F-0858,Grapes,Tropical,Chile,Red,1744.08,20.71,8,5,5
+F-0859,Peach,Pome Fruit,South Africa,Pink,661.68,11.69,2,10,27
+F-0860,Plum,Melon,USA,Purple,237.08,6.05,7,1,33
+F-0861,Strawberry,Melon,China,Purple,2323.65,6.86,10,7,24
+F-0862,Papaya,Melon,Chile,Red,3886.14,24.61,8,1,39
+F-0863,Kiwi,Stone Fruit,USA,Pink,2030.67,24.89,9,7,38
+F-0864,Orange,Melon,India,Red,2339.14,12.76,10,6,7
+F-0865,Mango,Berry,Brazil,Black,3138.39,4.7,2,1,9
+F-0866,Blueberry,Tropical,Mexico,Orange,2888.13,7.6,3,6,4
+F-0867,Kiwi,Melon,New Zealand,Black,1826.16,21.73,6,4,15
+F-0868,Papaya,Stone Fruit,Mexico,Orange,3427.24,10.24,2,6,4
+F-0869,Banana,Citrus,Costa Rica,Purple,4048.82,19.13,3,9,43
+F-0870,Peach,Stone Fruit,Colombia,Green,3365.65,6.72,4,3,18
+F-0871,Lemon,Citrus,China,Black,3790.67,8.13,6,8,16
+F-0872,Peach,Pome Fruit,Peru,Orange,2619.85,20.46,3,6,19
+F-0873,Banana,Pome Fruit,Italy,Yellow,4145.92,15.79,8,2,7
+F-0874,Mango,Stone Fruit,Colombia,Orange,4961.63,8.94,1,4,11
+F-0875,Banana,Pome Fruit,Thailand,Blue,3149.91,12.0,3,10,13
+F-0876,Lemon,Tropical,Italy,Orange,59.45,15.59,8,9,33
+F-0877,Banana,Berry,Spain,Red,893.55,16.03,2,3,4
+F-0878,Pineapple,Melon,Colombia,Pink,3478.36,1.25,9,6,16
+F-0879,Kiwi,Tropical,South Africa,Yellow,3141.41,19.1,4,7,38
+F-0880,Grapes,Pome Fruit,South Africa,Orange,2242.36,2.39,2,3,45
+F-0881,Kiwi,Berry,Spain,Orange,2701.1,19.85,7,1,35
+F-0882,Banana,Tropical,Costa Rica,Red,125.76,6.99,7,10,8
+F-0883,Strawberry,Citrus,Spain,Black,2392.58,12.74,2,4,43
+F-0884,Blueberry,Stone Fruit,USA,Blue,3736.72,13.12,2,8,27
+F-0885,Plum,Melon,New Zealand,Pink,1696.35,7.89,4,2,38
+F-0886,Plum,Berry,India,Black,3860.65,23.84,7,6,25
+F-0887,Avocado,Stone Fruit,Italy,Pink,573.34,5.17,2,9,44
+F-0888,Papaya,Citrus,China,Green,4633.81,7.86,10,7,29
+F-0889,Lemon,Berry,Peru,Blue,3165.73,24.84,7,2,8
+F-0890,Blueberry,Melon,India,Blue,4074.42,0.72,5,1,41
+F-0891,Lemon,Pome Fruit,Chile,Blue,2004.74,17.94,2,10,26
+F-0892,Cherry,Tropical,South Africa,Yellow,3407.41,11.39,5,6,4
+F-0893,Plum,Pome Fruit,Costa Rica,Purple,1928.99,11.28,8,6,30
+F-0894,Mango,Stone Fruit,Italy,Yellow,4451.06,20.04,2,8,34
+F-0895,Plum,Stone Fruit,Mexico,Green,3909.87,10.32,4,8,41
+F-0896,Avocado,Berry,USA,Green,2878.25,3.29,7,9,37
+F-0897,Blueberry,Melon,Spain,Pink,3881.92,13.8,10,7,44
+F-0898,Blackberry,Berry,USA,Black,1143.5,10.78,9,5,2
+F-0899,Apple,Berry,Thailand,Pink,4213.28,24.66,4,1,29
+F-0900,Cherry,Citrus,Mexico,Orange,2263.98,2.16,5,6,34
+F-0901,Orange,Berry,Costa Rica,Yellow,357.35,10.41,6,4,43
+F-0902,Lemon,Pome Fruit,Italy,Blue,3677.55,23.86,5,7,5
+F-0903,Pear,Citrus,China,Red,2704.63,14.04,1,3,41
+F-0904,Lemon,Melon,Brazil,Red,928.27,16.88,9,8,17
+F-0905,Kiwi,Pome Fruit,Chile,Orange,4831.82,13.55,9,6,3
+F-0906,Peach,Berry,USA,Orange,3732.23,13.63,1,1,20
+F-0907,Peach,Citrus,Brazil,Black,2062.6,0.87,1,4,45
+F-0908,Pineapple,Melon,USA,Pink,484.32,21.89,6,5,26
+F-0909,Pineapple,Tropical,Italy,Purple,4711.3,4.65,4,7,27
+F-0910,Raspberry,Berry,China,Purple,1507.73,8.48,4,1,39
+F-0911,Apple,Stone Fruit,Mexico,Blue,3741.97,24.77,10,7,11
+F-0912,Papaya,Melon,Brazil,Black,3580.79,24.29,3,3,27
+F-0913,Pear,Melon,New Zealand,Black,2755.33,8.36,5,7,4
+F-0914,Blueberry,Tropical,China,Orange,645.76,23.5,1,6,9
+F-0915,Banana,Berry,Peru,Green,590.44,9.11,8,5,14
+F-0916,Cherry,Melon,Ecuador,Orange,1897.93,6.12,2,1,40
+F-0917,Watermelon,Tropical,Chile,Orange,1597.18,12.85,5,2,38
+F-0918,Plum,Citrus,Costa Rica,Orange,2575.92,19.93,1,1,45
+F-0919,Papaya,Melon,India,Blue,3925.27,6.9,4,6,17
+F-0920,Plum,Melon,Ecuador,Purple,155.48,23.79,2,1,13
+F-0921,Lemon,Pome Fruit,China,Orange,600.29,3.2,7,8,41
+F-0922,Raspberry,Melon,Chile,Red,2050.02,23.68,8,9,26
+F-0923,Banana,Berry,Colombia,Yellow,2845.82,3.16,7,7,34
+F-0924,Mango,Melon,Mexico,Yellow,1796.13,8.87,6,5,12
+F-0925,Mango,Citrus,Italy,Black,2275.78,14.12,5,6,23
+F-0926,Banana,Melon,Thailand,Green,2285.68,19.11,2,7,13
+F-0927,Avocado,Berry,Mexico,Red,2771.63,17.9,9,7,11
+F-0928,Papaya,Melon,Italy,Orange,2295.98,5.3,10,6,35
+F-0929,Apple,Stone Fruit,Brazil,Red,1677.51,6.01,3,3,11
+F-0930,Pineapple,Pome Fruit,Mexico,Pink,3195.79,13.12,6,10,35
+F-0931,Lime,Citrus,China,Green,4779.64,5.59,1,4,6
+F-0932,Banana,Berry,Spain,Black,4039.38,12.36,2,3,35
+F-0933,Papaya,Pome Fruit,China,Pink,790.58,21.23,9,4,41
+F-0934,Kiwi,Tropical,South Africa,Green,1482.09,21.67,1,3,25
+F-0935,Watermelon,Berry,Spain,Pink,1100.12,5.37,6,2,44
+F-0936,Banana,Tropical,Colombia,Orange,2390.46,12.2,8,2,10
+F-0937,Strawberry,Citrus,New Zealand,Black,563.48,4.33,5,7,36
+F-0938,Cherry,Citrus,South Africa,Pink,2357.03,4.85,1,2,4
+F-0939,Peach,Citrus,Thailand,Yellow,4427.09,22.56,1,1,15
+F-0940,Grapes,Melon,USA,Green,4134.02,3.5,3,3,43
+F-0941,Raspberry,Berry,India,Green,4567.11,1.66,4,4,22
+F-0942,Mango,Pome Fruit,Colombia,Yellow,2400.7,12.54,6,4,16
+F-0943,Avocado,Stone Fruit,Colombia,Green,4268.2,20.26,3,9,14
+F-0944,Kiwi,Melon,USA,Yellow,3079.7,13.89,5,4,21
+F-0945,Peach,Melon,South Africa,Purple,3629.03,5.65,4,3,23
+F-0946,Papaya,Stone Fruit,USA,Yellow,4837.15,2.14,3,9,37
+F-0947,Banana,Stone Fruit,China,Black,3469.42,16.36,9,5,6
+F-0948,Pineapple,Citrus,Mexico,Orange,4340.87,3.94,9,5,6
+F-0949,Watermelon,Berry,Spain,Pink,1749.28,16.46,10,7,31
+F-0950,Banana,Citrus,Colombia,Black,2055.21,7.18,1,8,36
+F-0951,Orange,Pome Fruit,Spain,Green,2732.47,3.0,3,4,8
+F-0952,Lemon,Berry,USA,Blue,3446.42,19.89,6,4,26
+F-0953,Pineapple,Tropical,Mexico,Black,4912.42,19.13,6,1,20
+F-0954,Papaya,Tropical,Thailand,Pink,2465.53,18.35,1,3,36
+F-0955,Watermelon,Pome Fruit,Ecuador,Black,196.5,24.91,7,9,11
+F-0956,Apple,Pome Fruit,Italy,Black,2649.22,14.88,1,5,44
+F-0957,Blackberry,Melon,South Africa,Yellow,1279.49,16.24,5,2,29
+F-0958,Papaya,Citrus,Colombia,Yellow,4381.87,17.81,4,6,12
+F-0959,Apple,Berry,South Africa,Yellow,829.16,3.88,2,10,40
+F-0960,Grapes,Tropical,India,Blue,2764.43,6.51,4,1,28
+F-0961,Orange,Citrus,China,Pink,361.83,6.77,9,2,32
+F-0962,Cherry,Berry,Mexico,Red,2231.13,21.42,3,1,36
+F-0963,Blackberry,Berry,Costa Rica,Pink,1599.86,11.46,5,5,31
+F-0964,Pear,Tropical,Chile,Orange,1044.07,18.18,8,2,11
+F-0965,Papaya,Pome Fruit,Italy,Green,4363.31,1.27,5,4,6
+F-0966,Grapes,Stone Fruit,Brazil,Blue,1312.57,9.1,5,10,30
+F-0967,Kiwi,Tropical,Thailand,Yellow,4900.03,19.41,7,4,20
+F-0968,Cherry,Stone Fruit,Italy,Red,1840.51,24.3,5,10,45
+F-0969,Blackberry,Stone Fruit,Thailand,Yellow,3673.91,19.83,2,8,27
+F-0970,Avocado,Stone Fruit,China,Pink,1868.06,4.56,3,5,31
+F-0971,Pear,Melon,New Zealand,Yellow,1415.34,15.36,6,7,12
+F-0972,Papaya,Tropical,Mexico,Purple,2936.76,6.27,8,10,2
+F-0973,Cherry,Tropical,Chile,Black,1767.24,20.62,8,2,19
+F-0974,Avocado,Pome Fruit,Brazil,Red,318.46,24.84,8,6,44
+F-0975,Kiwi,Tropical,Spain,Yellow,2288.23,10.34,1,6,44
+F-0976,Apple,Berry,Ecuador,Blue,2882.58,7.59,8,9,8
+F-0977,Watermelon,Stone Fruit,South Africa,Yellow,4323.72,10.97,5,5,11
+F-0978,Lime,Melon,India,Black,3801.11,2.8,1,10,21
+F-0979,Pear,Melon,India,Yellow,1549.59,12.88,2,3,28
+F-0980,Pear,Melon,New Zealand,Purple,563.62,21.46,2,1,9
+F-0981,Apple,Stone Fruit,USA,Yellow,2185.25,24.65,3,8,7
+F-0982,Pineapple,Tropical,South Africa,Pink,3046.35,11.51,2,6,8
+F-0983,Watermelon,Stone Fruit,New Zealand,Purple,229.65,6.95,6,4,23
+F-0984,Blackberry,Berry,India,Red,2093.27,2.62,9,5,43
+F-0985,Kiwi,Tropical,China,Blue,3206.73,6.97,2,4,5
+F-0986,Blueberry,Berry,Italy,Black,3170.42,8.78,3,6,32
+F-0987,Papaya,Stone Fruit,Ecuador,Purple,255.84,9.88,4,9,6
+F-0988,Banana,Stone Fruit,Chile,Orange,373.41,3.65,6,1,14
+F-0989,Kiwi,Pome Fruit,Spain,Red,1053.12,8.18,10,7,30
+F-0990,Lime,Stone Fruit,South Africa,Red,1564.97,23.32,7,7,21
+F-0991,Avocado,Stone Fruit,New Zealand,Black,4145.1,24.56,10,7,22
+F-0992,Lime,Berry,Peru,Orange,2238.04,12.2,1,9,31
+F-0993,Peach,Stone Fruit,Brazil,Blue,1929.36,10.39,1,7,16
+F-0994,Plum,Tropical,India,Pink,4332.79,11.64,8,9,26
+F-0995,Kiwi,Tropical,India,Black,3715.35,3.53,2,10,16
+F-0996,Apple,Pome Fruit,Chile,Blue,3698.31,21.13,5,10,5
+F-0997,Plum,Citrus,Chile,Red,2087.4,24.04,7,2,13
+F-0998,Pear,Citrus,Ecuador,Black,3806.01,11.12,9,2,39
+F-0999,Blackberry,Citrus,China,Black,3170.61,1.91,2,1,15
+F-1000,Orange,Citrus,Italy,Pink,2305.64,0.99,8,1,39
