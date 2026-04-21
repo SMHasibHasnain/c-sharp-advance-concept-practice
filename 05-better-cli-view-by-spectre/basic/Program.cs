@@ -6,18 +6,20 @@ AnsiConsole.MarkupLine("Welcome To [bold green]Ftruit Vallay![/]");
 
 
 CsvFileReader csvFile = new CsvFileReader();
-var data = csvFile.Read();
+var alldata = csvFile.Read();
+
+var india_fruits = alldata.rows.Where(row => row[3] == "India").ToList();
 
 var table = new Table();
 
-foreach(var item in data.header!)
+foreach(var item in alldata.header!)
 {
     table.AddColumn(item);
 }
 
 
 var list = new List<string>();
-foreach (var rows in data.rows)
+foreach (var rows in india_fruits)
 {
     list.Clear();
     foreach (var rowData in rows)
@@ -29,6 +31,8 @@ foreach (var rows in data.rows)
 
 
 AnsiConsole.Write(table);
+
+Console.ReadKey();
 
 class CsvFileFormat
 {
@@ -45,6 +49,8 @@ class CsvFileReader
         CsvFileFormat csvFile = new CsvFileFormat();
 
         csvFile.header = stream.ReadLine()?.Split(",");
+
+        csvFile.rows = new();
 
         while(!stream.EndOfStream)
         {
