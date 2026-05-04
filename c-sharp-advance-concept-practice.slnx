@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/01-strategy-pattern/" />
+  <Folder Name="/01-strategy-pattern/strategy-pattern-by-composition/">
+    <Project Path="01-strategy-pattern/strategy-pattern-by-composition/strategy-patern-by-composition.csproj" />
+  </Folder>
+  <Project Path="02-decorator-pattern/02-decorator-pattern.csproj" />
+  <Project Path="03-file-handling-using-stream/03-file-handling-using-stream.csproj" />
+  <Project Path="04-csv-file-handling/04-csv-file-handling.csproj" />
+  <Project Path="05-better-cli-view-by-spectre/05-better-cli-view-by-spectre.csproj" />
+  <Project Path="06-generics/06-generics.csproj" />
+  <Project Path="07-delegates/07-delegates.csproj" />
+  <Project Path="08-reflection/08-reflection.csproj" />
+</Solution>
