@@ -10,4 +10,5 @@
   <Project Path="06-generics/06-generics.csproj" />
   <Project Path="07-delegates/07-delegates.csproj" />
   <Project Path="08-reflection/08-reflection.csproj" />
+  <Project Path="09-attribute/09-attribute.csproj" />
 </Solution>
