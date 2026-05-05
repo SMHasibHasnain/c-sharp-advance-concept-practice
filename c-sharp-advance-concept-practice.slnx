@@ -11,4 +11,6 @@
   <Project Path="07-delegates/07-delegates.csproj" />
   <Project Path="08-reflection/08-reflection.csproj" />
   <Project Path="09-attribute/09-attribute.csproj" />
+  <Project Path="10-struct/10-struct.csproj" />
+  <Project Path="11-records/11-records.csproj" />
 </Solution>
