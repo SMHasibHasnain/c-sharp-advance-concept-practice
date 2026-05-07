@@ -19,7 +19,7 @@ class Run
     public static void Main(String[] args)
     {
         Axios one = new Axios(4, 2, 6);
-        Axios two = one with { X = 5, Y = 3, Z = 7 };
+        Axios two = one with { X = 5, Y = 3, Z = 7 }; 
 
         Console.WriteLine("Previous: ");
         Console.WriteLine("X: " + one.X);
