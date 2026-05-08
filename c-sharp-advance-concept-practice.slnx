@@ -14,4 +14,5 @@
   <Project Path="10-struct/10-struct.csproj" />
   <Project Path="11-records/11-records.csproj" />
   <Project Path="12-mother-of-all-objects/12-mother-of-all-objects.csproj" />
+  <Project Path="13-record/13-record.csproj" />
 </Solution>
