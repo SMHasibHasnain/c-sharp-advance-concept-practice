@@ -51,7 +51,6 @@ namespace NullableReferenceTypesDemo
                 Console.WriteLine(nullableString.Length); 
             }
 
-            Console.WriteLine("--- 3. The Array Blindspot (IDE Fails) ---");
             string[] nonNullableArray = new string[5]; 
             
             try
@@ -60,7 +59,7 @@ namespace NullableReferenceTypesDemo
             }
             catch (NullReferenceException)
             {
-                Console.WriteLine("Exception Caught! IDE couldn't save us from the array blindspot.");
+                Console.WriteLine("Exception! IDE couldn't save us from the array blindspot.");
             }
         }
     }
