@@ -24,14 +24,18 @@ class Program
             Console.WriteLine($"Exception Caught: {ex.Message}"); 
         }
 
-        int? randomPeopleAge = null;
+        int? randomNullablePeopleAge = null;
         //int age = randomPeopleAge.Value; Error
 
         //Basic Way
         int Age;
-        if(randomPeopleAge.HasValue) Age = randomPeopleAge.Value;
+        if(randomNullablePeopleAge.HasValue) Age = randomNullablePeopleAge.Value;
 
-        int BetterWayToPutAge = randomPeopleAge ?? 18; //Null-Coalescing Operator
+        int BetterWayToPutAge = randomNullablePeopleAge ?? 18; //Null-Coalescing Operator
+
+
+        //Smart way to unpack nullable operator
+        if(randomNullablePeopleAge is int boyosh) System.Console.WriteLine(boyosh);
     }
 
 }
