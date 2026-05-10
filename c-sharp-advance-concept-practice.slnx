@@ -16,4 +16,5 @@
   <Project Path="12-mother-of-all-objects/12-mother-of-all-objects.csproj" />
   <Project Path="13-record/13-record.csproj" />
   <Project Path="14-null/14-null.csproj" />
+  <Project Path="15-api-basic/15-api-basic.csproj" />
 </Solution>
